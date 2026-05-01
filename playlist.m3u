@@ -781,6 +781,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/index.m3u8?sessionid=yupptvott_5_-1_8469c582-22ad-b1f6-cbca-be87e9170ff4_AE_86.98.149.63_dishtv_1_channel_41_-1&token=st=1777552875~exp=1777639275~hmac=29adb65323a42aedda2124663226d1ee56ec815d5d3aa9beaeb53bb5551600e8
 #EXTINF:-1 tvg-id="PTC music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png?width=400" group-title="Hindi Music",PTC music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
+https://cdn-3.pishow.tv/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="Public Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/channel/a81e4e69d4bfedb502653dffe0ad80e6.png" group-title="Hindi Music",Public Music
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6651/index.m3u8
 https://cdn-3.pishow.tv/live/441/master.m3u8
@@ -939,6 +940,8 @@ http://premimum.online:80/live/jen12345/jen54321/23310.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Test",Flowers
 http://premimum.online:80/live/Jen12345/Jen54321/9030.ts
+#EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.pn" group-title="Test",0000
+https://jalworld-my.sharepoint.com/personal/cloud_jalworld_onmicrosoft_com/Documents/Movies/MALAYALAM%202026/Aadu%203%202026%20Malayalam.mkv
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/C1VNtZqd/Ep946.png" group-title="😆 Marimayam", Episode 946 | 19 Apr 2026
 https://mmtvvod-in.vgcdn.net/vod/ed131657-2aef-484f-b1dc-30c4a23a3a17/184078/master.m3u8
