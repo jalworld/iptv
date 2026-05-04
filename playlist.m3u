@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-in.xml","https://avkb.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz",
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz",
 "https://iptv-org.github.io/epg/guides/en/dishtv.in.xml","https://iptv-org.github.io/epg/guides/en/elcinema.com.xml",
 "https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml","https://iptv-org.github.io/epg/guides/en/plex.tv.xml",
 "https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml","https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml",
