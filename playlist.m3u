@@ -196,17 +196,20 @@ http://starshare.fans/live/jen12345/jen54321/23309.ts
 http://line.nspivot.com:80/live/C01D92/60CA8D/63300.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
+http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/97002.ts
 http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
+http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
-http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
 http://starshare.fans/live/jen12345/jen54321/23307.ts
+http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
 http://103.157.248.140:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/63276.ts
 http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
