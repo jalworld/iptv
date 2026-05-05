@@ -5,10 +5,10 @@
 "https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml","https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.postimg.cc/RVgTwn07/Media-Vision-TV.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Media vision Movies
-http://premimum.online:80/live/Jen12345/Jen54321/135566.ts
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
-http://premimum.online:80/live/Jen12345/Jen54321/135533.ts
+
 #EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/8zR0fcYN/kannur_vision.png" group-title="Malayalam Local TV",Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Network payyanur" tvg-logo="https://i.postimg.cc/kgTv7ykz/Network_Payyanur.jpg" group-title="Malayalam Local TV",Network Payyanur
@@ -143,7 +143,6 @@ https://cdn-3.pishow.tv/live/1629/master.m3u8
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.postimg.cc/RF04H4H3/mathrubhumi-news.png" group-title="Malayalam News",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/9032.ts
 #EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.postimg.cc/qBhgbxN6/Mediaone-TV.jpg" group-title="Malayalam News",Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.postimg.cc/FsM6h6yJ/News-18-Kerala.png" group-title="Malayalam News",News 18 Kerala 
@@ -152,10 +151,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.postimg.cc/x8nxCyFM/Jaihind-TV.png" group-title="Malayalam News",Jaihind TV
 https://mumt03.tangotv.in/JAIHIND/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/169798.ts
 #EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/90CX1KzJ/kerala-vision-news.png" group-title="Malayalam News",Kerala vision News
 http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
-http://starshare.fans:80/live/653284131606/673224580558/169850.tsv
+http://starshare.fans:80/live/653284131606/673224580558/169850.ts
 #EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.postimg.cc/ZKDBKYCM/zee-news-malayalam.png" group-title="Malayalam News",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
@@ -278,6 +276,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://103.157.248.140:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="IPL 2026",Sky Sports Cricket
+http://starshare.fans:80/live/653284131606/673224580558/124269.ts
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="IPL 2026",Star 4K
@@ -301,28 +301,36 @@ http://premimum.online:80/live/Jen12345/Jen54321/705147.ts
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
 http://premimum.online:80/live/Jen12345/Jen54321/702533.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Hindi HD
-http://premimum.online:80/live/Jen12345/Jen54321/211.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Tamil HD
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/9722.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Telugu HD
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/177843.ts
 #EXTINF:-1 tvg-id="SStar Sports 2 Hindi HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 Hindi HD
+http://tv.cloudcdn.me:80/live.ts?channelId=132883&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="IPL 2026",Sky Sports Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/12.ts
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="IPL 2026",Fox Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/1856.ts
-#EXTINF:-1 tvg-id="SuperSports" tvg-logo="https://i.postimg.cc/CLGBV5T3/supersports.jpg" group-title="IPL 2026",SuperSports
+#EXTINF:-1 tvg-id="SuperSports" tvg-logo="https://i.postimg.cc/CLGBV5T3/supersports.jpg" group-title="IPL 2026",Super Sports
+http://tv.cloudcdn.me:80/live.ts?channelId=128710&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/186605.ts
 #EXTINF:-1 tvg-id="cricbuzz" tvg-logo="https://i.postimg.cc/fRKhZnRC/ezgif-340bad0a76a88112.png" group-title="IPL 2026",Cricbuzz
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/2494.ts
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="IPL 2026",Willow Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/23943.ts
 #EXTINF:-1 tvg-id="Willow Cricket 2" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="IPL 2026",Willow Cricket 2
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-id="Hub Sports 4" tvg-logo="https://i.postimg.cc/x8dGVygH/Hub_Sports_4.webp" group-title="IPL 2026",Hub Sports 4
 http://premimum.online:80/live/Jen12345/Jen54321/196347.ts
 #EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="IPL 2026",Starzplay Sports 
-http://premimum.online:80/live/Jen12345/Jen54321/703301.ts
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
@@ -351,16 +359,17 @@ http://103.157.248.140:8000/play/a00o/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 2 HD
 http://103.157.248.140:8000/play/a00p/index.m3u8
-http://103.157.248.140:8000/play/a00y/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%201%20HD.png" group-title="Sports",Sony Ten 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/98861.ts
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%202%20HD.png" group-title="Sports",Sony Ten 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/98862.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%203%20Hindi%20HD.png" group-title="Sports",Sony Ten 3 Hindi HD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/98863.ts
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%203%20Hindi.png" group-title="Sports",Sony Ten 3 Hindi
 http://premimum.online:80/live/Jen12345/Jen54321/146.ts
@@ -369,6 +378,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/29469.ts
 #EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%204%20Telugu.png" group-title="Sports",Sony Ten 4 Telugu
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%205%20HD.png" group-title="Sports",Sony Ten 5 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://premimum.online:80/live/Jen12345/Jen54321/176.ts
 http://premimum.online:80/live/Jen12345/Jen54321/98870.ts
 
@@ -453,7 +463,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:31
 
 #EXTINF:-1 tvg-id="Eurospot HD" tvg-logo="https://i.postimg.cc/MG5smh9G/Eurospots.jpg" group-title="Sports",Eurospot HD
 http://103.157.248.140:8000/play/a013/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/23308.ts
 
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
 http://premimum.online:80/live/Jen12345/Jen54321/652310.ts
