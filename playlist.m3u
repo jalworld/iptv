@@ -128,6 +128,8 @@ h- https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 h-
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
+http://tv.cloudcdn.me:80/live.ts?channelId=43471&uid=3510&deviceMac=00:1A:79:31:34:0E
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
@@ -193,18 +195,20 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://starshare.fans/live/jen12345/jen54321/23309.ts
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
+http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/63300.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
-http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=3510&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/97002.ts
 http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
-http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 http://starshare.fans/live/jen12345/jen54321/23307.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
 http://103.157.248.140:8000/play/a00s/index.m3u8
@@ -222,6 +226,7 @@ https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/85926.ts
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/0NL75YyM/Mazhavil-Manorama-HD.png" group-title="Malayalam",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
+http://starshare.fans/live/jen12345/jen54321/23311.ts
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/nrdzrxGd/Mazhavil-Manorama.png" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam HD
