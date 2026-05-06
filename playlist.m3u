@@ -206,18 +206,22 @@ http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 http://starshare.fans/live/jen12345/jen54321/23307.ts
+http://103.157.248.140:8000/play/a00s/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
-http://103.157.248.140:8000/play/a00s/index.m3u8
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/63276.ts
+http://geotv.space:8880/live/557623231/543416701/179360.ts
 http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
+http://geotv.space:8880/live/557623231/543416701/179360.ts
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/9031.ts
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
 http://line.nspivot.com:80/live/C01D92/60CA8D/63275.ts
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/9027.ts
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
