@@ -297,15 +297,6 @@ http://premimum.online:80/live/Jen12345/Jen54321/705134.ts
 #EXTINF:-1 tvg-id="IPL Kannada HD" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Kannada HD 
 http://premimum.online:80/live/Jen12345/Jen54321/705147.ts
 
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="FIFA WC 2026",TSN 1 VIP Sports
-http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17181?play_token=dKTrYJvM1s
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="FIFA WC 2026",TSN 2 VIP Sports
-http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17180?play_token=O15ldVD1B6
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="FIFA WC 2026",TSN 3 VIP Sports
-http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17179?play_token=o0hBGgvCm6
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="FIFA WC 2026",TSN 4 VIP Sports
-http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17178?play_token=RVGofmlAyd
-
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
 http://premimum.online:80/live/Jen12345/Jen54321/702533.ts
@@ -340,6 +331,15 @@ http://premimum.online:80/live/Jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-id="Hub Sports 4" tvg-logo="https://i.postimg.cc/x8dGVygH/Hub_Sports_4.webp" group-title="IPL 2026",Hub Sports 4
 http://premimum.online:80/live/Jen12345/Jen54321/196347.ts
 #EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="IPL 2026",Starzplay Sports 
+
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 1 VIP Sports
+http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17181?play_token=dKTrYJvM1s
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 2 VIP Sports
+http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17180?play_token=O15ldVD1B6
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 3 VIP Sports
+http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17179?play_token=o0hBGgvCm6
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 4 VIP Sports
+http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17178?play_token=RVGofmlAyd
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
