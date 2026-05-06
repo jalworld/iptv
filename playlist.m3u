@@ -332,8 +332,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/5040.ts
 http://premimum.online:80/live/Jen12345/Jen54321/196347.ts
 #EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="IPL 2026",Starzplay Sports 
 
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 1 VIP Sports
-http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17181?play_token=dKTrYJvM1s
+#EXTINF:-1 tvg-id="Makan 33" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 2 VIP Sports
 http://iiilllaaiiiiiiiia1.funtogether.xyz:8080/uNzJ3rHLhp/UquxItsPQf/17180?play_token=O15ldVD1B6
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 3 VIP Sports
@@ -499,6 +499,20 @@ http://premimum.online:80/live/Jen12345/Jen54321/652319.ts
 https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",Bein Sports 2
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
+#EXTINF:-1 tvg-id="	beIN Sports Max 4" tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports",	beIN Sports Max 4
+http://109.61.81.149:1935/cdn7/1182/mpegts?token=865b5c7c743b0ba5acffeb52e9d07990
+#EXTINF:-1 tvg-id="	beIN Sports Max 5" tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="Sports",	beIN Sports Max 5
+http://109.61.81.149:1935/cdn7/1183/mpegts?token=a02b61f1863125e8e6fabc44926dd2a7
+#EXTINF:-1 tvg-id="	beIN Sports Max 6" tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",	beIN Sports Max 6
+http://109.61.81.149:1935/cdn7/1184/mpegts?token=653df2647b6029081552ab25e0124cb7
+#EXTINF:-1 tvg-id="	beIN Sports Max 7" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="Sports",	beIN Sports Max 7
+http://109.61.81.149:1935/cdn7/1185/mpegts?token=0dff3e494359f7088d3c8c0e70ba29b7
+#EXTINF:-1 tvg-id="	beIN Sports Max 8" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="Sports",	beIN Sports Max 8
+http://109.61.81.149:1935/cdn7/1186/mpegts?token=9f31c6d6ae72eaad5d8262e1faf031b3
+#EXTINF:-1 tvg-id="	beIN Sports Max 9" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",	beIN Sports Max 9
+http://109.61.81.149:1935/cdn7/2155/mpegts?token=1e207faec500c1ea76a65944f20aafb4
+#EXTINF:-1 tvg-id="	beIN Sports Max 10" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="Sports",	beIN Sports Max 10
+http://109.61.81.149:1935/cdn7/2149/mpegts?token=88c2930eb3f6d9a7edd7a2b7c91d9871
 #EXTINF:-1 tvg-id="Solh Sports" tvg-logo="https://i.postimg.cc/Z5QtVZRK/Solh_Sports.jpg" group-title="Sports",Solh Sports
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
 #EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
@@ -514,11 +528,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=3510&deviceMac=00:1A:79:31:34
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=3510&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/Bbc5Wpzf/ADSPORTS1.png" group-title="Sports",Abu Dhabi Sports 1 HD
-http://premimum.online:80/live/Jen12345/Jen54321/309006.ts
-http://premimum.online:80/live/Jen12345/Jen54321/605126.ts
+http://109.61.81.149:1935/cdn7/1694/mpegts?token=e2e836f56e7b46cd3ff9f6797436ff18
 https://vod1.jalatech.ps/abu_dhabisport1/index.m3u8?token=0db9279076983e99caf9c11a00e38298
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/WbyzNgcx/ADSPORTS2.png" group-title="Sports",Abu Dhabi Sports 2 HD
-http://premimum.online:80/live/Jen12345/Jen54321/309007.ts
+http://109.61.81.149:1935/cdn7/1695/mpegts?token=4031835288bc151748fb5d0e2b486ba2
 https://vod1.jalatech.ps/abu_dhabisport2/index.m3u8?token=db80d073947c84073529ffe60b9c72c3
 #EXTINF:-1 tvg-id="Yas TV" tvg-logo="https://i.postimg.cc/MTr270D4/YAS.png" group-title="Sports",Yas TV HD
 https://vod1.jalatech.ps/yas_sport/index.m3u8?token=be2b5985819a26bef7ce8078175dad97
