@@ -151,6 +151,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News
 #EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.postimg.cc/dtFv22rk/Kairali-News.webp" group-title="Malayalam News",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.postimg.cc/x8nxCyFM/Jaihind-TV.png" group-title="Malayalam News",Jaihind TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 https://mumt03.tangotv.in/JAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/90CX1KzJ/kerala-vision-news.png" group-title="Malayalam News",Kerala vision News
 http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
