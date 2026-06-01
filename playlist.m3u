@@ -192,29 +192,29 @@ https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="India Life" tvg-logo="https://i.imgur.com/Jg0FehL.jpeg" group-title="Malayalam Web TV",India Life
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Web TV",Media vision Craft
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
-http://starshare.fans/live/jen12345/jen54321/23309.ts
+http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155817&extension=ts&play_token=0F8O67iVGG
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
+http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155815&extension=ts&play_token=tGZGClKw6M
 http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/63300.ts
-http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
+http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155819&extension=ts&play_token=9LBwQnu6yA
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/97002.ts
-http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
 http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
-http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 http://starshare.fans/live/jen12345/jen54321/23307.ts
 http://103.157.248.140:8000/play/a00s/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
+#EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
+http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=282607&extension=ts&play_token=egvlOlRlpy
 http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=3510&deviceMac=00:1A:79:31:34:0E
 http://geotv.space:8880/live/557623231/543416701/179360.ts
 http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
@@ -944,6 +944,7 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="Test 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/330px-SMPTE_Color_Bars.svg.png" group-title="Test",Test 1
 https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=430&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Test",YouTube Live
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd?&keyId=c0c3d8692a6a574e9a731ff7ed7ca7fe&key=87eed062e3b13bd639f5cba89b83ea33
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
