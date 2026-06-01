@@ -155,8 +155,7 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 https://mumt03.tangotv.in/JAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/90CX1KzJ/kerala-vision-news.png" group-title="Malayalam News",Kerala vision News
-http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
-http://starshare.fans:80/live/653284131606/673224580558/169850.ts
+https://bit.ly/435AijB
 #EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.postimg.cc/ZKDBKYCM/zee-news-malayalam.png" group-title="Malayalam News",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
@@ -213,6 +212,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 https://bit.ly/surya_hd
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
 https://bit.ly/4dETmLH
+#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/9038.ts
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam HD
 https://bit.ly/zkeral-hd
 
@@ -916,9 +917,9 @@ https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id
 #EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Test",YouTube Live
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd?&keyId=c0c3d8692a6a574e9a731ff7ed7ca7fe&key=87eed062e3b13bd639f5cba89b83ea33
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
+#EXTINF:-1 tvg-id="Super League " tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com 1
+#EXTINF:-1 tvg-id="Super League " tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com 1
 https://t.freetv.fun/live/astro-premier-league-z.ts
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Test",Asianet News HD
@@ -951,7 +952,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/9027.ts
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Test",Middle East
 http://premimum.online:80/live/Jen12345/Jen54321/85926.ts
 
-#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Test",Zee Keralam HD
+#EXTINF:-1 tvg-id="Zee m HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-m-hd.jpg" group-title="Test",Zee m HD
 http://premimum.online:80/live/jen12345/jen54321/23310.ts
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.postimg.cc/x8PsbxXh/amrita-tv.png" group-title="Test",Amrita TV
 http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
