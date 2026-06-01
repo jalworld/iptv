@@ -195,90 +195,15 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Web TV",Media vision Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
-http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155817&extension=ts&play_token=0F8O67iVGG
-#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
-http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155815&extension=ts&play_token=tGZGClKw6M
-http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=3510&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
-http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=155819&extension=ts&play_token=9LBwQnu6yA
-http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=3510&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
-http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=3510&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
-http://starshare.fans/live/jen12345/jen54321/23307.ts
-http://103.157.248.140:8000/play/a00s/index.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/63503.ts
+#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
+http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
-http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:21&stream=282607&extension=ts&play_token=egvlOlRlpy
-http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://geotv.space:8880/live/557623231/543416701/179360.ts
-http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
-#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
-http://geotv.space:8880/live/557623231/543416701/179360.ts
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/9031.ts
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
-http://line.nspivot.com:80/live/C01D92/60CA8D/63275.ts
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/9027.ts
-#EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
-https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/85926.ts
-#EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/0NL75YyM/Mazhavil-Manorama-HD.png" group-title="Malayalam",Mazhavil Manorama HD
-https://cdn-7.pishow.tv/live/1129/master.m3u8
-http://starshare.fans/live/jen12345/jen54321/23311.ts
-#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/nrdzrxGd/Mazhavil-Manorama.png" group-title="Malayalam",Mazhavil Manorama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam HD
-http://starshare.fans/live/653284131606/673224580558/10094.ts
-http://premimum.online:80/live/jen12345/jen54321/23310.ts
-#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.postimg.cc/x8PsbxXh/amrita-tv.png" group-title="Malayalam",Amrita TV
-https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
-#EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Malayalam",Flowers
-http://premimum.online:80/live/Jen12345/Jen54321/9030.ts
-http://103.154.3.101:5001/live/634.m3u8
-#EXTINF:-1 tvg-id="Flowers USA" tvg-logo="https://i.postimg.cc/7LWbqwX2/Flowers-USA.png" group-title="Malayalam",Flowers USA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.postimg.cc/1zpYQ39m/kairali-tv.png" group-title="Malayalam",Kairali TV
-http://premimum.online:80/live/Jen12345/Jen54321/9026.ts
-http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=3510&deviceMac=00:1A:79:31:34:0E
-https://mumt01.tangotv.in/KAIRALI/index.m3u8
-#EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.postimg.cc/J0gQXf1b/kairali-arabia.png" group-title="Malayalam",Kairali Arabia
-https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/85928.ts
-#EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.postimg.cc/HWK06Cgt/Kairali-WE.png" group-title="Malayalam",WE TV
-https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.postimg.cc/mDKw1xZJ/Kappa-TV.png" group-title="Malayalam",Kappa TV
-https://cdn-3.pishow.tv/live/1123/master.m3u8
-#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" group-title="Malayalam",Raj Musix malayalam
-https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.postimg.cc/3RjRmmYC/Safari-TV.png" group-title="Malayalam",Safari TV
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.postimg.cc/5tf6sXGX/Victers-TV.png" group-title="Malayalam",Victers TV
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD_Malayalam.png" group-title="Malayalam",DD malayalam
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
-#EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.postimg.cc/vZ9d4MQS/kaumudy-tv.png" group-title="Malayalam",Kaumudy TV
-https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
-https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
-#EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.postimg.cc/bwfBFnhM/Jeevan-TV.png" group-title="Malayalam",Jeevan TV
-https://cdn-3.pishow.tv/live/1467/master.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/85920.ts
-#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
-https://mumt04.tangotv.in/DARSHANATV/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/85924.ts
-
-#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Malayalam",Kochu TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=3510&deviceMac=00:1A:79:31:34:0E
-http://line.nspivot.com:80/live/C01D92/60CA8D/63277.ts
-#EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
-http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
