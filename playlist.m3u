@@ -7,8 +7,9 @@
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Media vision Movies
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/121375.ts
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
-
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/135553.ts
 #EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/8zR0fcYN/kannur_vision.png" group-title="Malayalam Local TV",Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Network payyanur" tvg-logo="https://i.postimg.cc/kgTv7ykz/Network_Payyanur.jpg" group-title="Malayalam Local TV",Network Payyanur
@@ -752,7 +753,7 @@ http://geotv.space:8880/live/557623231/543416701/324808.ts
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
 http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
-http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/5924.ts
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6693/index.m3u8
