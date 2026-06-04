@@ -255,8 +255,11 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
 https://bit.ly/3S9uUcU
 
-#EXTINF:-1 tvg-id="Makan 33" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Makan 33
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 2 VIP Sports
+#EXTINF:-1 tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 1 HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/196.ts
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/9389.ts
+#EXTINF:-1 tvg-id="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 2 HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/253.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 3 VIP Sports
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 4 VIP Sports
 
