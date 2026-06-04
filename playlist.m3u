@@ -205,6 +205,7 @@ http://geotv.space:8880/live/557623231/543416701/179363.ts
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/85926.ts
 https://bit.ly/4fbGOwz
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
 #EXTVLCOPT:http-referrer=https://tulnit.com
@@ -754,13 +755,14 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6686/index.m3u8
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
 http://geotv.space:8880/live/557623231/543416701/324808.ts
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
-http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/1612.ts
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
 http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/5924.ts
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/98893.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6693/index.m3u8
-http://starshare.fans/live/jen12345/jen54321/23318.ts
+
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
@@ -778,6 +780,7 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6699/index.m3u8
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6701/index.m3u8
 
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/159.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
