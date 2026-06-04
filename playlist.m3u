@@ -200,6 +200,7 @@ http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/98891.ts
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/177842.ts
 http://geotv.space:8880/live/557623231/543416701/179363.ts
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://tulnit.com" group-title="Malayalam",Asianet Movies
 #EXTVLCOPT:http-referrer=https://tulnit.com
@@ -753,7 +754,7 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6686/index.m3u8
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
-http://geotv.space:8880/live/557623231/543416701/324808.ts
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/158.ts
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
 http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/1612.ts
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
@@ -793,8 +794,9 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" group-title="Tamil",Jaya Max
 http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/240.ts
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6698/index.m3u8
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-logo="https://img.jacreation.com/ib/PuH3YM1RMI.png" group-title="Tamil",Star Vijay HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/98898.ts
 #EXTINF:-1 tvg-id="7 music" tvg-logo="https://i.postimg.cc/c15Bph19/7-music-tamil.png" group-title="Tamil",7 Music
-https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="MK Six" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/13tfWRG2/MK-Tunes.png" group-title="Tamil",MK tunes
@@ -803,14 +805,90 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:31
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="Imai TV" tvg-logo="https://i.postimg.cc/vZrkzk76/Imaitv.png" group-title="Tamil",Imai TV
  https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" group-title="Tamil",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 tvg-id="ThanthiOne.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540" group-title="Tamil",Thanthi One
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="RojaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" group-title="Tamil",Roja TV 
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" group-title="Tamil",Ultimate TV
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="Tamil",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="Tamil",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV
+https://cdn-3.pishow.tv/live/473/master.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="Tamil",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="Tamil",Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540" group-title="Tamil",Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" group-title="Tamil",Vasanth TV
+
 #EXTINF:-1 tvg-id="Village Cooking Channel" tvg-logo="https://i.postimg.cc/ZnDP4v2h/village-cooking-channel.jpg" group-title="Tamil",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sun Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/200x200_SunGeminiHD_194392_7cf12398-9a75-48a1-b707-b3c4da0564e9.png" group-title="Tamil",Sun Gemini HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6709/index.m3u8
 #EXTINF:-1 tvg-id="Sun Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/192537/200x200_SunGeminiMoviesHD_192537_acb5d2e8-ab2c-464a-a004-e0e09e7de02d.png" group-title="Tamil",Sun Gemini Movies
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6710/index.m3u8
+
+#DD
+#EXTINF:-1 tvg-id="DDNational.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="DD",DD National SD (576p)
+https://cdn-1.pishow.tv/live/11/master.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-logo="https://i.imgur.com/HUL4aF6.png" group-title="DD",DD Nagaland (576p)
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png" group-title="DD",DD Saptagiri (576p)
+https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="DD",DD News (576p)
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" group-title="DD",DD Uttarakhand (720p)
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="DD",DD Bharati (720p)
+http://103.213.31.109:90/DDBharati/playlist.m3u8
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="DD",DD Rajasthan (720p)
+https://cdn-1.pishow.tv/live/34/master.m3u8
+#EXTINF:-1 tvg-id="DramaChannel.th@SD" tvg-logo="https://i.imgur.com/ill1Ux6.png" group-title="DD",MV Mall DD (1080p)
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="DD",DD Punjabi (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="DD",DD Assam (576p)
+https://mumt05.tangotv.in/DDASSAM/index.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" group-title="DD",DD Girnar (576p)
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" group-title="DD",DD Madhya Pradesh (720p)
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" group-title="DD",DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="DD",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="DD",DD Chhattisgarh (720p)
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png" group-title="DD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="DD",DD News HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" group-title="DD",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="DD",DD Uttar Pradesh (720p)
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="DD",DD Bangla (576p)
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="DD",DD Bangla (576p)
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="DD",DD Chandana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="DD",DD Jharkhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" group-title="DD",DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="DD",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SHILLONG/images/LOGO_HD/image.png" group-title="DD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png" group-title="DD",DD Urdu (720p)
+https://cdn-4.pishow.tv/live/8/master.m3u8
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo="" group-title="Test",Abc
 
@@ -892,6 +970,7 @@ http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Test",Asianet HD
 http://starshare.fans/live/jen12345/jen54321/23307.ts
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Test",Asianet movies HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/177842.ts
 http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Test",Asianet movies
 http://premimum.online:80/live/Jen12345/Jen54321/9031.ts
