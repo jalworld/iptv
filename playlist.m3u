@@ -764,17 +764,23 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6693/index.m3u8
 
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/9019.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/98911.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zee Thirai" tvg-logo="https://i.postimg.cc/gJjSjpdx/Zee-Thirai-HD.jpg" group-title="Tamil",Zee Thirai HD
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/181966.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/7hbpF7bV/zee-tamil.png" group-title="Tamil",Zee Tamil
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/225.ts
 http://103.157.248.140:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/5895.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31:34:0E
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6696/index.m3u8
 #EXTINF:-1 tvg-id="Raj TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png?width=400" group-title="Tamil",Raj TV
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/5913.ts
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6699/index.m3u8
 #EXTINF:-1 tvg-id="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0e88a23840b94cbafb65c43ee1241418.png" group-title="Tamil",Raj Digital Plus
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6701/index.m3u8
@@ -785,6 +791,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" group-title="Tamil",Jaya Max
+http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/240.ts
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6698/index.m3u8
 #EXTINF:-1 tvg-id="7 music" tvg-logo="https://i.postimg.cc/c15Bph19/7-music-tamil.png" group-title="Tamil",7 Music
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
