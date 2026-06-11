@@ -219,7 +219,9 @@ https://bit.ly/4dETmLH
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
 http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/9038.ts
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam HD
-https://bit.ly/zkeral-hd
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98895.ts
+#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam 
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/4226.ts
 
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/0NL75YyM/Mazhavil-Manorama-HD.png" group-title="Malayalam",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
@@ -257,13 +259,35 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
 https://bit.ly/3S9uUcU
 
+
 #EXTINF:-1 tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 1 HD
-http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/196.ts
-http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/9389.ts
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/741567.ts
 #EXTINF:-1 tvg-id="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 2 HD
-http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/253.ts
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 3 VIP Sports
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",TSN 4 VIP Sports
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98841.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 1" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports",	beIN Sports Max 1
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744517.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 1 4k" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports",	beIN Sports Max 1 4K
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744529.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 2" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports",	beIN Sports Max 2
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744518.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 2 4k" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports",	beIN Sports Max 2 4K
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744530.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 3" tvg-logo="https://i.imgur.com/ThcM2LE.png" group-title="Sports",	beIN Sports Max 3
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744519.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 4" tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports",	beIN Sports Max 4
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744520.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 5" tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="Sports",	beIN Sports Max 5
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744527.ts
+#EXTINF:-1 tvg-id="	beIN Sports Max 6" tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",	beIN Sports Max 6
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744522.ts
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 1
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/742610.ts
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 2
+http://185.129.1.242:80/trtspor/mpegts?token=d6f7a16d3123e46a0345a265de46d4e6
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 3
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/741566.ts
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 4
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/742611.ts
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 http://fastshare1.com:8080/live/2dm8PWZoeX/2dm8PWZoeXm/703299.ts
@@ -394,45 +418,29 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:31
 http://103.157.248.140:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
-http://premimum.online:80/live/Jen12345/Jen54321/652310.ts
+http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744517.ts
+http://star.flix4k.net:8080/live/2dm8PWZoeX/2dm8PWZoeXm/744517.ts
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",Bein Sports 2
-http://premimum.online:80/live/Jen12345/Jen54321/652311.ts
 #EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",Bein Sports 3
-http://premimum.online:80/live/Jen12345/Jen54321/652312.ts
 #EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports",Bein Sports 4
-http://premimum.online:80/live/Jen12345/Jen54321/652313.ts
 #EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports",Bein Sports 5
-http://premimum.online:80/live/Jen12345/Jen54321/652314.ts
 #EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Sports",Bein Sports 6
-http://premimum.online:80/live/Jen12345/Jen54321/652315.ts
 #EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Sports",Bein Sports 7
-http://premimum.online:80/live/Jen12345/Jen54321/652316.ts
 #EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Sports",Bein Sports 8
-http://premimum.online:80/live/Jen12345/Jen54321/652317.ts
 #EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",Bein Sports 9
-http://premimum.online:80/live/Jen12345/Jen54321/652318.ts
 #EXTINF:-1 tvg-id="Bein Sports 1 English" tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports",Bein Sports 1 English
-http://premimum.online:80/live/Jen12345/Jen54321/138713.ts
 #EXTINF:-1 tvg-id="Bein Sports 2 English" tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Sports",Bein Sports 2 English
-http://premimum.online:80/live/Jen12345/Jen54321/652319.ts
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
-https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",Bein Sports 2
-https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="	beIN Sports Max 4" tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports",	beIN Sports Max 4
-http://109.61.81.149:1935/cdn7/1182/mpegts?token=865b5c7c743b0ba5acffeb52e9d07990
 #EXTINF:-1 tvg-id="	beIN Sports Max 5" tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="Sports",	beIN Sports Max 5
-http://109.61.81.149:1935/cdn7/1183/mpegts?token=a02b61f1863125e8e6fabc44926dd2a7
 #EXTINF:-1 tvg-id="	beIN Sports Max 6" tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",	beIN Sports Max 6
-http://109.61.81.149:1935/cdn7/1184/mpegts?token=653df2647b6029081552ab25e0124cb7
 #EXTINF:-1 tvg-id="	beIN Sports Max 7" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="Sports",	beIN Sports Max 7
-http://109.61.81.149:1935/cdn7/1185/mpegts?token=0dff3e494359f7088d3c8c0e70ba29b7
 #EXTINF:-1 tvg-id="	beIN Sports Max 8" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="Sports",	beIN Sports Max 8
-http://109.61.81.149:1935/cdn7/1186/mpegts?token=9f31c6d6ae72eaad5d8262e1faf031b3
 #EXTINF:-1 tvg-id="	beIN Sports Max 9" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",	beIN Sports Max 9
-http://109.61.81.149:1935/cdn7/2155/mpegts?token=1e207faec500c1ea76a65944f20aafb4
 #EXTINF:-1 tvg-id="	beIN Sports Max 10" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="Sports",	beIN Sports Max 10
-http://109.61.81.149:1935/cdn7/2149/mpegts?token=88c2930eb3f6d9a7edd7a2b7c91d9871
+
+
 #EXTINF:-1 tvg-id="Solh Sports" tvg-logo="https://i.postimg.cc/Z5QtVZRK/Solh_Sports.jpg" group-title="Sports",Solh Sports
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
 #EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
