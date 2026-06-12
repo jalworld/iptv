@@ -259,36 +259,12 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
 https://bit.ly/3S9uUcU
 
-#EXTINF:-1 tvg-id="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 2 HD
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98841.ts
-#EXTINF:-1 tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA WC 2026",Unite8 Sports 1 HD
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/741567.ts
-#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="FIFA WC 2026",Zee Keralam HD
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98895.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 1" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="FIFA WC 2026",	beIN Sports Max 1
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744517.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 1 4k" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="FIFA WC 2026",	beIN Sports Max 1 4K
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744529.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 2" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="FIFA WC 2026",	beIN Sports Max 2
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744518.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 2 4k" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="FIFA WC 2026",	beIN Sports Max 2 4K
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744530.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 3" tvg-logo="https://i.imgur.com/ThcM2LE.png" group-title="FIFA WC 2026",	beIN Sports Max 3
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744519.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 4" tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="FIFA WC 2026",	beIN Sports Max 4
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744520.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 5" tvg-logo="https://i.imgur.com/L6TvXAi.png" group-title="FIFA WC 2026",	beIN Sports Max 5
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744527.ts
-#EXTINF:-1 tvg-id="	beIN Sports Max 6" tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="FIFA WC 2026",	beIN Sports Max 6
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/744522.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 1
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/742610.ts
+https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 2
-http://185.129.1.242:80/trtspor/mpegts?token=d6f7a16d3123e46a0345a265de46d4e6
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 3
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/741566.ts
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 4
-http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/742611.ts
+https://s3.us-east-1.amazonaws.com/yalapro1/hls/0/stream_1280x720_3300k.m3u8
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/703299.ts
@@ -300,7 +276,6 @@ http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98866.ts
 http://103.157.248.140:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 2 HD
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98865.ts
-
 
 
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Tamil HD
