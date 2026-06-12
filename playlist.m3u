@@ -271,6 +271,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=134095&uid=3510&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=134112&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 6
 http://tv.cloudcdn.me:80/live.ts?channelId=134113&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA WC 2026",Live 7
+https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6684
 
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
