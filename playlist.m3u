@@ -193,23 +193,23 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Web TV",Media vision Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
+#EXTVLCOPT:http-referrer=https://bhoomtv.com/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://tulnit.com" group-title="Malayalam",Asianet Movies
+#EXTVLCOPT:http-referrer=https://bhoomtv.com/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
+#EXTVLCOPT:http-referrer=https://bhoomtv.com/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/98891.ts
-#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/177842.ts
 http://geotv.space:8880/live/557623231/543416701/179363.ts
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://tulnit.com" group-title="Malayalam",Asianet Movies
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/85926.ts
 https://bit.ly/4fbGOwz
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://fastshare1.com:8080/live/jen12345/jen54321/23309.ts
