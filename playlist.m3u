@@ -300,7 +300,7 @@ https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8
 https://s3.us-east-1.amazonaws.com/yalapro1/hls/0/stream_1280x720_3300k.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=134107&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 9
-#EXTVLCOPT:http-referrer=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.com/
 https://fifa.keralive.workers.dev/out/v1/dba7a93150a7462297b998af19b0fde0/index.m3u8
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
