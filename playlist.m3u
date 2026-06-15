@@ -288,7 +288,7 @@ https://viznf.gdgdfhbdfidsf.xyz/1781548032/fee932f28cb24e7e84923d942760c306/M3it
 https://viznf.gdgdfhbdfidsf.xyz/1781548149/2518eb1aa29f485585cdd2b625869055/uqA8s8GXTTQjyOUOxbINPAgO3OZx-jW28w0wFlg0Na8/beinsportsmax-sa.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 4
 http://tv.cloudcdn.me:80/live.ts?channelId=134095&uid=3510&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 5
+#EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png",Live 5
 http://tv.cloudcdn.me:80/live.ts?channelId=134112&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 6
 http://tv.cloudcdn.me:80/live.ts?channelId=134113&uid=3510&deviceMac=00:1A:79:31:34:0E
@@ -299,6 +299,9 @@ http://skyfilex.fun:80/live/01939393848/84919293949/745270.ts
 https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8
 https://s3.us-east-1.amazonaws.com/yalapro1/hls/0/stream_1280x720_3300k.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=134107&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png",Live 9
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://fifa.keralive.workers.dev/out/v1/dba7a93150a7462297b998af19b0fde0/index.m3u8
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 http://star.flix4k.net:80/live/2dm8PWZoeX/2dm8PWZoeXm/703299.ts
