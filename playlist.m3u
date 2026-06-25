@@ -263,10 +263,27 @@ https://bit.ly/3S9uUcU
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 2
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6684
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" group-title="FIFA World Cup 2026",FUSSBALL TV 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVP_Sport_2021.svg" group-title="FIFA World Cup 2026", TVP Sports FHD
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="FIFA World Cup 2026", Unite8 Sports 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="FIFA World Cup 2026", Unite8 Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xfireflix.my.id/mac.php?id=373312.m3u8
+
 #EXTINF:-1 tvg-id="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
-http://skyfilex.fun:80/live/01939393848/84919293949/745202.ts
 #EXTINF:-1 tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
-http://skyfilex.fun:80/live/01939393848/84919293949/741567.ts
+
 #EXTINF:-1 tvg-id="	beIN Sports Max 1 4k" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="FIFA World Cup 2026",	beIN Sports Max 1 4K
 http://skyfilex.fun:80/live/01939393848/84919293949/744529.ts
 #EXTINF:-1 tvg-id="	beIN Sports Max 2 4k" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="FIFA World Cup 2026",	beIN Sports Max 2 4K
