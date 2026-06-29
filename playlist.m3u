@@ -1,3 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>404 Not Found</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 80px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    .telegram-text {
+      font-size: 22px;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+    .telegram-btn {
+      background-color: #0088cc;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    .telegram-btn:hover {
+      background-color: #0070aa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>404 ERROR</h1>
+    <p>Page Not Found</p>
+    <div class="telegram-text">
+      Join my Telegram channel now for new playlist
+    </div><a href="https://malayalamlive.vercel.app/" class="telegram-btn"
+    target="_blank">Join Telegram</a>
+  </div>
+  <script>
+
+  window.location.href = "https://malayalamlive.vercel.app/";
+
+  </script>
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz",
 "https://iptv-org.github.io/epg/guides/en/dishtv.in.xml","https://iptv-org.github.io/epg/guides/en/elcinema.com.xml",
 "https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml","https://iptv-org.github.io/epg/guides/en/plex.tv.xml",
