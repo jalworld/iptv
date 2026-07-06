@@ -150,7 +150,8 @@ https://live.skystream.in/live/newmedia2924/index.m3u8
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-id="Drisya TV" tvg-logo="https://i.postimg.cc/TPQ6Thxr/drisya-news-pala.jpg" group-title="Malayalam Local TV",Drisya TV
 https://live.skystream.in/live/DrisyaPala2924/index.m3u8
-#EXTINF:-1 tvg-id="Metro Live" tvg-logo="https://i.postimg.cc/hPkm15M9/Metro-Live.png" group-title="Malayalam Local TV",Metro Live
+#EXTINF:-1 tvg-id="Metro Live" tvg-logo="https://i.postimg.cc/hPkm15M9/Metro-Live.png"  http-referrer="https://tulnit.org" group-title="Malayalam Local TV",Metro Live
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 #EXTINF:-1 tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
 https://play.applelive.in/vtv/vtv.m3u8
@@ -344,10 +345,7 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
-#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" http-referrer="https://bhoomtv.org" group-title="Malayalam",Darshana TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://colorsportscreen.com/freetv/stream.m3u8?id=8914ef2ce69d
-#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam",Darshana TV 1
+#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam",Darshana TV 
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=8914ef2ce69d
 
