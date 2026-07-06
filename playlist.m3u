@@ -388,9 +388,9 @@ https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
 
 #EXTINF:-1 tvg-id="YRF Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Hindi Music",Shemaroo Filmi Gaane 
+#EXTINF:-1 tvg-id="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Music",Shemaroo Filmi Gaane 
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://bhoomtv.org" group-title="Hindi Music",MTV India
+#EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://bhoomtv.org" group-title="Music",MTV India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Music",Bollywood Music
@@ -440,7 +440,7 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="Punjabi Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png?width=400" http-referrer="https://bhoomtv.org" group-title="Music",Punjabi Music HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://colorsportscreen.com/freetv/stream.m3u8?id=d76bf3d7d566
-#EXTINF:-1 tvg-id="PTC Punjabi Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png?width=400" group-title="Hindi Music",PTC Punjabi Gold
+#EXTINF:-1 tvg-id="PTC Punjabi Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png?width=400" group-title="Music",PTC Punjabi Gold
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6686/index.m3u8
 #EXTINF:-1 tvg-id="Public Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/channel/a81e4e69d4bfedb502653dffe0ad80e6.png" group-title="Music",Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
