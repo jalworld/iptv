@@ -75,7 +75,11 @@ https://live.skystream.in/live/networkpayyanur/index.m3u8
 #EXTINF:-1 tvg-id="city-vision-kannur" tvg-logo="https://i.postimg.cc/tTKL2bkZ/city-vision-kannur.jpg" group-title="Malayalam Local TV",City Vision Kannur
 https://live.skystream.in/live/citykannurcity/index.m3u8
 #EXTINF:-1 tvg-id="Wayanad Vision" tvg-logo="https://i.postimg.cc/DZcX5hcs/wayanad-vision.webp" group-title="Malayalam Local TV",Wayanad Vision
-https://cloudsavre.in.net/hls/0/stream.m3u8
+https://online.wayanadvision.in/hls/wayanadvision.m3u8
+#EXTINF:-1 tvg-id="Wayanad Vision Movies" tvg-logo="https://i.postimg.cc/NMFBSsp6/Wayanad-Vision-Movies.png" group-title="Malayalam Local TV",Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+#EXTINF:-1 tvg-id="Wayanad Vision Plus" tvg-logo="https://i.postimg.cc/GtbNVqLR/Wayanad-Vision-Plus.png" group-title="Malayalam Local TV",Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
 #EXTINF:-1 tvg-id="New Vision" tvg-logo="https://i.postimg.cc/nLW3KtY6/new-vision-mundakayam.jpg" group-title="Malayalam Local TV",New Vision
 https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 tvg-id="Kerala vision" tvg-logo="https://i.postimg.cc/zD9f81VR/kerala-vision.jpg" group-title="Malayalam Local TV",Kerala Vision
@@ -103,7 +107,7 @@ http://cloud.logichost.in:1935/live/citi/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Local TV",VISION Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/CMbr9wxh/Teak-Vision.png" group-title="Malayalam Local TV",Teak Vision Nilambur
-https://hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
+hxxps: //hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
 #EXTINF:-1 tvg-id="Koickal News" tvg-logo="https://i.postimg.cc/BbwX8570/Koickal-News.png" group-title="Malayalam Local TV",Koickal News
 https://play.applelive.in/koickalnews/koickalnews.m3u8
 #EXTINF:-1 tvg-id="TCN Entertainments" tvg-logo="https://i.postimg.cc/hP53r0S6/TCN-Entertainments.jpg" group-title="Malayalam Local TV",TCN Entertainments
@@ -128,7 +132,7 @@ https://live.skystream.in/live/citytv2924/index.m3u8
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 #EXTINF:-1 tvg-id="CCTV Kunnamkulam" tvg-logo="https://i.postimg.cc/Hxm5z9gv/cctv-kunnamkulam.jpg" group-title="Malayalam Local TV",CCTV Kunnamkulam
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Star Net" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="Malayalam Local TV",Star Net
+#EXTINF:-1 tvg-id="Starnet Vadakkanchery" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="Malayalam Local TV",Starnet Vadakkanchery
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Malayalam Local TV",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
@@ -141,7 +145,7 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="N Media" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",N Media
 https://live.skystream.in/live/newmedia2924/index.m3u8
 #EXTINF:-1 tvg-id="Starnet" tvg-logo="https://i.postimg.cc/vmPXZk7r/Starnet.png" group-title="Malayalam Local TV",Starnet
-https://play.applelive.in/starnettv/starnettv.m3u8
+
 #EXTINF:-1 tvg-id="NV TV" tvg-logo="https://i.postimg.cc/mhxmG9YX/NV-TV.png" group-title="Malayalam Local TV",NV TV
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-id="Drisya TV" tvg-logo="https://i.postimg.cc/TPQ6Thxr/drisya-news-pala.jpg" group-title="Malayalam Local TV",Drisya TV
@@ -338,8 +342,14 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.postimg.cc/bwfBFnhM/Jeevan-TV.png" group-title="Malayalam",Jeevan TV
 https://cdn-3.pishow.tv/live/1467/master.m3u8
+
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" group-title="Malayalam",Darshana TV
-https://bit.ly/3S9uUcU
+#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" http-referrer="https://bhoomtv.org" group-title="Malayalam",Darshana TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://colorsportscreen.com/freetv/stream.m3u8?id=8914ef2ce69d
+#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.postimg.cc/Z5J15NMJ/Darshana-TV.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam",Darshana TV 1
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+https://colorsportscreen.com/freetv/stream.m3u8?id=8914ef2ce69d
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="FIFA World Cup 2026", Unite8 Sports 2 HD
