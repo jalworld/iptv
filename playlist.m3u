@@ -150,8 +150,7 @@ https://live.skystream.in/live/newmedia2924/index.m3u8
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-id="Drisya TV" tvg-logo="https://i.postimg.cc/TPQ6Thxr/drisya-news-pala.jpg" group-title="Malayalam Local TV",Drisya TV
 https://live.skystream.in/live/DrisyaPala2924/index.m3u8
-#EXTINF:-1 tvg-id="Metro Live" tvg-logo="https://i.postimg.cc/hPkm15M9/Metro-Live.png"  http-referrer="https://bhoomtv.org" group-title="Malayalam Local TV",Metro Live
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Metro Live" tvg-logo="https://i.postimg.cc/hPkm15M9/Metro-Live.png" group-title="Malayalam Local TV",Metro Live
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 #EXTINF:-1 tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
 https://play.applelive.in/vtv/vtv.m3u8
