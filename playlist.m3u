@@ -414,7 +414,6 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=5d6328db934f
 #EXTINF:-1 tvg-id="Vision Beats" tvg-logo="https://i.postimg.cc/2jxwjnFz/Vision-Beats.png" http-referrer="https://bhoomtv.org" group-title="Music",Vision Beats
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
-#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Music",B4U_Kadak
 #EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Music",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160c818d-4a57-4b89-ae62-0423e18110cf/3.m3u8
 #EXTINF:-1 tvg-id="M Tunes HD" tvg-logo="https://i.postimg.cc/MKQ1MR1r/M-Tunes-HD.png" group-title="Music",M Tunes HD
@@ -862,6 +861,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Arabic",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#HINDITV
 #EXTINF:-1 tvg-id="Star Plus" tvg-logo="https://i.postimg.cc/Kj7c2fRq/STAR-PLUS-HD.png" group-title="Hindi",Star Plus HD
 http://103.155.18.186:8000/play/a009/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
@@ -942,7 +942,10 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" group-title="Hindi",MTV
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
-http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/6331fe55-785e-4fcf-bfab-53584ae275ef/3.m3u8
+#EXTINF:-1 tvg-id="B4U Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" http-referrer="https://bhoomtv.org" group-title="Hindi",B4U Kadak
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://m3uplay.com/stream.m3u8?id=b4ukadak
 #EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.postimg.cc/sxJ1ZX5H/DD-National.png" group-title="Hindi",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
