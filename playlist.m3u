@@ -913,7 +913,7 @@ https://m3uplay.com/stream.m3u8?id=zcomedynation
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="& pictures HD" tvg-logo="https://i.postimg.cc/50p2C6NZ/pic-hd.png" group-title="Hindi",& pictures HD
-http://103.157.248.140:8000/play/a01d/index.m3u8
+http://103.155.18.186:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="& pictures" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",& pictures
 http://103.155.18.186:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="& explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",& explor HD
