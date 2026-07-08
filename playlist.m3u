@@ -817,20 +817,21 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:3
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+#Arabic
 #EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.postimg.cc/0Qb5BkfX/al-saudiya-tv.jpg" group-title="Arabic",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-logo="https://i.imgur.com/8DAriPs.png" group-title="Arabic",Abu Dhabi TV
-http://premimum.online:80/live/Jen12345/Jen54321/319612.ts
+
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://i.imgur.com/iSbZqn4.png" group-title="Arabic",Al Emarat TV
-http://premimum.online:80/live/Jen12345/Jen54321/319613.ts
+
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://i.postimg.cc/KzQqBZZ5/sharjah-tv.png" group-title="Arabic",Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Arabic",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-id="Aflam"tvg-logo="https://i.postimg.cc/7PgPQZrh/Dubai-One-HD.png" group-title="Arabic",Dubai One HD
-http://premimum.online:80/live/Jen12345/Jen54321/319610.ts
+
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.postimg.cc/W3qmPJ6Q/dubai-tv.png" group-title="Arabic",Dubai TV
-http://premimum.online:80/live/Jen12345/Jen54321/319609.ts
+
 #EXTINF:-1 tvg-id="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="Arabic",Qatar Television
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="Arabic",Qatar Television 2
@@ -840,15 +841,15 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="Arabic",Al Jazeera News
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.postimg.cc/dQ2pw5Sj/al_jazeera_mubasher.jpg" group-title="Arabic",Al Jazeera Mubasher
-http://premimum.online:80/live/Jen12345/Jen54321/319265.ts
+
 #EXTINF:-1 tvg-id="Al Arabiya" tvg-logo="https://i.postimg.cc/HLb4XhM4/al_arabiya.jpg" group-title="Arabic",Al Arabiya
-http://premimum.online:80/live/Jen12345/Jen54321/319266.ts
+
 #EXTINF:-1 tvg-id="sky news arabia" tvg-logo="https://i.postimg.cc/WzyJQGrM/sky_news_arabia.png" group-title="Arabic",Sky News Arabia
-http://premimum.online:80/live/Jen12345/Jen54321/319272.ts
+
 #EXTINF:-1 tvg-id="BBC News Arabic" tvg-logo="https://s7.ezgif.com/tmp/ezgif-7e80b2f9143edd02.png" group-title="Arabic",BBC News Arabic
-http://premimum.online:80/live/Jen12345/Jen54321/319282.ts
+
 #EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://i.postimg.cc/GmF1NcnT/star_movie.png" group-title="Arabic",Star Movies
-http://premimum.online:80/live/Jen12345/Jen54321/274152.ts
+
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC 1
