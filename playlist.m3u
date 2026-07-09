@@ -903,7 +903,7 @@ https://m3uplay.com/stream.m3u8?id=zsouthflix
 #EXTINF:-1 tvg-id="Z Cine Classic" tvg-logo="https://i.postimg.cc/bJ77C2LX/Z-Cine-Classic.jpg" http-referrer="https://bhoomtv.org" group-title="Hindi",Z Cine Classic
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://m3uplay.com/stream.m3u8?id=zcineclassic
-#EXTINF:-1 tvg-id="Z Horror Nights" tvg-logo="https://i.postimg.cc/xCD5Byrx/Z-Horror-Nights.jpg" http-referrer="https://bhoomtv.org" group-title="Malayalam",Z Horror Nights
+#EXTINF:-1 tvg-id="Z Horror Nights" tvg-logo="https://i.postimg.cc/xCD5Byrx/Z-Horror-Nights.jpg" http-referrer="https://bhoomtv.org" group-title="Hindi",Z Horror Nights
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://m3uplay.com/stream.m3u8?id=zhorrornights
 #EXTINF:-1 tvg-id="Z Dil Se" tvg-logo="https://i.postimg.cc/3NbvQY4M/z-dil-se.jpg" http-referrer="https://bhoomtv.org" group-title="Hindi",Z Dil Se
