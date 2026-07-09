@@ -1082,7 +1082,7 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=939d915284d7
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/6142ac350185bccb38b98ee5b74b0212.png" group-title="Tamil News",Win TV News
 https://cdn-4.pishow.tv/live/1531/master.m3u8
-#EXTINF:-1 tvg-id="News J" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png?width=400" group-title="Tamil News",News J Tamil
+#EXTINF:-1 tvg-id="News J" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png?width=400" group-title="Tamil News",News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="Malai Murasu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Malai_Murasu.png?width=400" group-title="Tamil News",Malai Murasu
 https://cdn-3.pishow.tv/live/1606/master.m3u8
