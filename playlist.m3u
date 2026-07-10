@@ -456,7 +456,6 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=ff0c54c1c70b
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="FIFA World Cup 2026", Unite8 Sports 2 HD
 http://103.155.18.186:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="FIFA World Cup 2026", Unite8 Sports 2 HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="FIFA World Cup 2026", Unite8 Sports 1 HD
 http://103.155.18.186:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="FIFA World Cup 2026", Unite8 Sports 1 HD
@@ -464,9 +463,9 @@ http://103.155.18.186:8000/play/a125/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://xfireflix.my.id/mac.php?id=373312.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 1
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/uNzJ3rHLhp/oNkQZyMbvQ/135364?play_token=OAB2HPCFQR
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540041.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 2
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/uNzJ3rHLhp/oNkQZyMbvQ/135154?play_token=Mz0zxuAjg7
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541538.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 4K
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" group-title="FIFA World Cup 2026",FUSSBALL TV 4K
 #KODIPROP:inputstream=inputstream.adaptive
@@ -479,7 +478,6 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
 http://103.155.18.186:8000/play/a126/index.m3u8
-#EXTINF:-1 tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/J7TrwphG/Uniti8Sports.jpg" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
 
 #EXTINF:-1 tvg-id="	beIN Sports Max 1 4k" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="FIFA World Cup 2026",	beIN Sports Max 1 4K
 #EXTINF:-1 tvg-id="	beIN Sports Max 2 4k" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="FIFA World Cup 2026",	beIN Sports Max 2 4K
@@ -492,10 +490,15 @@ http://103.155.18.186:8000/play/a126/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 1
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 2
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540035.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 3
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541540.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 4
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540038.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 5
+http://daleplaytv.vip:80/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541533.ts
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 6
 #EXTINF:-1 tvg-id="TSN" tvg-logo="https://i.postimg.cc/Bv7WYWTx/FIFA-2026.png" group-title="FIFA World Cup 2026",Live 7
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6684
@@ -738,7 +741,7 @@ http://103.157.248.140:8000/play/a018/index.m3u8
 http://103.155.18.186:8000/play/a050/index.m3u8
 http://103.157.248.140:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
-http://premimum.online:80/live/Jen12345/Jen54321/98873.ts
+http://37.186.70.39:40/play/113/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://103.155.18.186:8000/play/a05o/index.m3u8
 http://103.157.248.140:8000/play/a012/index.m3u8
@@ -811,7 +814,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="My Time Movies 2HD" tvg-logo="https://i.postimg.cc/6qQMJPSQ/My-Time-Movie-Network.jpg" group-title="English Movies",My Time Movies 2HD
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Korean Movies HD" tvg-logo="https://i.postimg.cc/TPsR88hk/korean-movies.jpg" group-title="English Movies",Korean Movies HD
-http://premimum.online:80/live/Jen12345/Jen54321/9390.ts
+
 #EXTINF:-1 tvg-id="Paramount Movies HD" tvg-logo="https://i.postimg.cc/bY3mqzqN/Paramount-Movie.jpg" group-title="English Movies",Paramount Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
@@ -1156,15 +1159,10 @@ http://103.157.248.140:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Test",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Test",Surya TV HDA
-http://premimum.online:80/live/Jen12345/Jen54321/23309.ts
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Test",Surya Movies
-http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Test",Surya Music
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6653/index.m3u8
-http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Test",Surya Comedy
-http://premimum.online:80/live/jen12345/jen54321/9033.ts
-http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Test",Asianet HD
 http://starshare.fans/live/jen12345/jen54321/23307.ts
@@ -1184,8 +1182,19 @@ http://premimum.online:80/live/jen12345/jen54321/23310.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Test",Flowers
 http://premimum.online:80/live/Jen12345/Jen54321/9030.ts
-#EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Test",0000
-https://jalworld-my.sharepoint.com/personal/cloud_jalworld_onmicrosoft_com/Documents/Movies/MALAYALAM%202026/Aadu%203%202026%20Malayalam.mkv
+
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 01
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58597.mkv
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 02
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58598.mkv
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 03
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58599.mkv
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 04
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58600.mkv
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 05
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58601.mkv
+#EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 06
+http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58602.mkv
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/C1VNtZqd/Ep946.png" group-title="😆 Marimayam", Episode 946 | 19 Apr 2026
 https://mmtvvod-in.vgcdn.net/vod/ed131657-2aef-484f-b1dc-30c4a23a3a17/184078/master.m3u8
