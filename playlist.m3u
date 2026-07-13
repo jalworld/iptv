@@ -1068,7 +1068,7 @@ https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_inde
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="Tamil News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-id="Seithigal TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png?width=400" group-title="Tamil News",Seithigal TV
-https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="News Tamil 24×7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png?width=400" group-title="Tamil News",News Tamil 24×7
 https://vglivessai.akamaized.net/ptnr-lg/title-NewsTamil_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6b4230cd-0a95-4f83-bf79-4dd2eb13bd41/index.m3u8
 #EXTINF:-1 tvg-id="News 18 Tamilnadu" tvg-logo="https://i.postimg.cc/25ncFFg7/News-18-Tamilnadu.png" group-title="Tamil News",News 18 Tamilnadu
