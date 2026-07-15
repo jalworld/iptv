@@ -779,7 +779,17 @@ http://103.155.18.186:8000/play/a05x/index.m3u8
 http://103.155.18.186:8000/play/a06p/index.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099472.m3u8
+http://38.19.16.151:8000/play/a0uh/index.m3u8
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO +
+http://38.19.16.151:8000/play/a0tv
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO Family HD
+http://38.19.16.151:8000/play/a03y
+#EXTINF:-1 tvg-id="HBO POP HD" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO POP HD
+http://38.19.16.151:8000/play/a0fk
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO Signature
+http://38.19.16.151:8000/play/a0o0
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO Xtreme
+http://38.19.16.151:8000/play/a03z
 #EXTINF:-1 tvg-id="sky cinema action and adventure" tvg-logo="https://i.postimg.cc/W3dw2wSM/sky-cinema-action.jpg" group-title="English Movies",sky cinema action and adventure
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?ads.xumo_channelId=88884638
 #EXTINF:-1 tvg-id="MNX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX
@@ -819,6 +829,7 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099472.m3u8
 
 #Arabic
 #EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.postimg.cc/0Qb5BkfX/al-saudiya-tv.jpg" group-title="Arabic",Al Saudiya
@@ -1182,6 +1193,9 @@ http://premimum.online:80/live/jen12345/jen54321/23310.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Test",Flowers
 http://premimum.online:80/live/Jen12345/Jen54321/9030.ts
+#Adult
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="ZTest",test1
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 
 #EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 01
 http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58597.mkv
