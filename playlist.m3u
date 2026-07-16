@@ -1002,8 +1002,10 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
-#EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
+#EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png"http-referrer="https://04jio.teachub.workers.dev/" group-title="Tamil",KTV HD
+#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=894
+
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
 http://103.155.18.186:8000/play/a06o/index.m3u8
