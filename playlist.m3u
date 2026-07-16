@@ -368,7 +368,9 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Music",Sun music HD
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png"http-referrer="https://04jio.teachub.workers.dev/"group-title="Music",Sun music HD
+E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
+https://04jio.teachub.workers.dev/live.m3u8?id=895
 http://103.155.18.186:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="Gee TV Music" tvg-logo="https://i.postimg.cc/rp9RkNxj/Gee-TV-Music.png" group-title="Music",Gee TV Music
 https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
