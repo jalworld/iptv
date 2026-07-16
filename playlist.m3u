@@ -359,6 +359,9 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 https://colorsportscreen.com/freetv/stream.m3u8?id=8914ef2ce69d
 
 #MUSICTV
+#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Music",Surya Music
+#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
+https://04jio.teachub.workers.dev/live.m3u8?id=747
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.postimg.cc/mDKw1xZJ/Kappa-TV.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" http-referrer="https://bhoomtv.org" group-title="Music",Raj Musix malayalam
