@@ -131,6 +131,8 @@ https://live.skystream.in/live/citytv2924/index.m3u8
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 #EXTINF:-1 tvg-id="CCTV Kunnamkulam" tvg-logo="https://i.postimg.cc/Hxm5z9gv/cctv-kunnamkulam.jpg" group-title="Malayalam Local TV",CCTV Kunnamkulam
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV Cinema" tvg-logo="https://i.postimg.cc/B6vZJjcc/CCTV-Cinema.jpg" group-title="Malayalam Local TV",CCTV Cinema
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Starnet Vadakkanchery" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="Malayalam Local TV",Starnet Vadakkanchery
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Malayalam Local TV",VCV
@@ -151,8 +153,6 @@ https://ipcloud.live/nvtv/livetvstream/index.m3u8
 https://live.skystream.in/live/DrisyaPala2924/index.m3u8
 #EXTINF:-1 tvg-id="Metro Live" tvg-logo="https://i.postimg.cc/hPkm15M9/Metro-Live.png" group-title="Malayalam Local TV",Metro Live
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
-#EXTINF:-1 tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
-https://play.applelive.in/vtv/vtv.m3u8
 #EXTINF:-1 tvg-id="CCNET Cherupuzha" tvg-logo="https://i.postimg.cc/K8RKp3n5/CCNET_Cherupuzha.jpg" group-title="Malayalam Local TV",CCNET Cherupuzha
 https://live.skystream.in/live/ccnet7082/index.m3u8
 #EXTINF:-1 tvg-id="K7 Keralam" tvg-logo="https://i.postimg.cc/prcWKkcS/K7_Keralam.webp" group-title="Malayalam Local TV",K7 Keralam
@@ -189,11 +189,11 @@ h- https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
 h- https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="One tv" tvg-logo="https://i.postimg.cc/x1bjF7S5/One-tv.jpg" group-title="Malayalam Local TV",One TV
 h- http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV Cinema" tvg-logo="https://i.postimg.cc/B6vZJjcc/CCTV-Cinema.jpg" group-title="Malayalam Local TV",CCTV Cinema
-h- https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
+h- https://play.applelive.in/vtv/vtv.m3u8
 #EXTINF:-1 tvg-id="N vision Music" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision music
 h- https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
-h-
+
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
@@ -268,16 +268,9 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="v" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Asianet HD
 #EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=443
-#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Malayalam",Asianet
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org" group-title="Malayalam",Asianet Movies
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
-
+#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Asianet movies HD
+#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev
+https://04jio.teachub.workers.dev/live.m3u8?id=459
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
@@ -368,7 +361,7 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" http-referrer="https://04jio.teachub.workers.dev/"g roup-title="Music",Sun music HD
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Music",Sun music HD
 E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=895
 http://103.155.18.186:8000/play/a06k/index.m3u8
@@ -376,7 +369,8 @@ http://103.155.18.186:8000/play/a06k/index.m3u8
 https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Music",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" group-title="Music",Jaya Max
+#EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Music",Jaya Max
+E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=420
 #EXTINF:-1 tvg-id="Raj Musix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png?width=400" group-title="Music",Raj Musix
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
@@ -1201,7 +1195,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6653/index.m3u8
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Test",Surya Comedy
 
-
+#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Test",Asianet
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org" group-title="Test",Asianet Movies
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Test",Asianet Plus
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee m HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-m-hd.jpg" group-title="Test",Zee m HD
 
