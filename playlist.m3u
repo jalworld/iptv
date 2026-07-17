@@ -368,7 +368,7 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png"http-referrer="https://04jio.teachub.workers.dev/"group-title="Music",Sun music HD
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" http-referrer="https://04jio.teachub.workers.dev/"g roup-title="Music",Sun music HD
 E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=895
 http://103.155.18.186:8000/play/a06k/index.m3u8
@@ -991,8 +991,9 @@ https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+2YvdC5fXgxhp8HGbSsBmg", "kid":"OJFVfxyxTe23VFv1JJnXSA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
-http://103.155.18.186:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Tamil",Sun music HD
+E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
+https://04jio.teachub.workers.dev/live.m3u8?id=895
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r+lvYC/Wq+3NnCyM33ma/Q", "kid":"Lsb6W3f/QiOjdsK5gDL7+A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://i.postimg.cc/Kzy6bZGn/gemini.png" group-title="Tamil",Gemini TV
