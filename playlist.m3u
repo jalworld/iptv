@@ -269,7 +269,7 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=443
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Asianet movies HD
-#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev
+#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=459
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
