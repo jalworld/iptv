@@ -1218,19 +1218,6 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Test",Flowers
 
 
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test1
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test2
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test3
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test4
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test5
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 tvg-id="Adult" tvg-logo="https://i.postimg.cc/Lss4cFW0/18.jpg" group-title="ZTest",test6
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-
 #EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 01
 http://31.43.191.142:8080/series/9961775815055/a1ac0f4bc28b/58597.mkv
 #EXTINF:-1 tvg-id="Squid Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg" group-title="Squid Game", S03 | Episode 02
