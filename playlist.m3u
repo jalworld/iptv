@@ -487,7 +487,7 @@ http://103.155.18.186:8000/play/a03c/index.m3u8
 http://103.155.18.186:8000/play/a03e/index.m3u8
 http://103.157.248.140:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png?width=400" http-referrer="https://playyonogames.in/" group-title="Sports 1",Sony Ten 1 HD
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png?width=400" group-title="Sports 1",Sony Ten 1 HD
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png?width=400" group-title="Sports",Sony Ten 1 HD
