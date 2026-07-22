@@ -267,8 +267,10 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
 #malayalamTV
 #EXTINF:-1 tvg-id="v" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
+#EXTVLCOPT:http-referrer=https://ranapkz.site/
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373404
-#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
+#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp"  http-referrer="https://ranapkz.site/" group-title="Malayalam",Asianet movies HD
+#EXTVLCOPT:http-referrer=https://ranapkz.site/
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373397
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373396
