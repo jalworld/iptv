@@ -502,6 +502,7 @@ http://103.157.248.140:8000/play/a00p/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 #EXTINF:-1 tvg-id="Sony Sports Ten 2 HD" tvg-logo="https://i.postimg.cc/8zD2xNdC/Sony-Sports-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
 http://103.155.18.186:8000/play/a06n/index.m3u8
+http://103.253.18.58:8000/play/a01u
 #EXTINF:-1 tvg-id="Sony Sports Ten 3 Hindi HD" tvg-logo="https://i.postimg.cc/rpZ7d4BL/Sony-Sports-TEN-3-Hindi-HD.png" group-title="Sports",Sony Sports Ten 3 Hindi HD
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278
@@ -759,13 +760,12 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
 http://103.155.18.186:8000/play/a067/index.m3u8
-http://103.157.248.140:8000/play/a01b/index.m3u8
+http://103.253.18.58:8000/play/a01g
 #EXTINF:-1 tvg-id="Travelxp HD" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travelxp HD
 http://103.155.18.186:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Documentary",History TV 18
 http://103.155.18.186:8000/play/a065/index.m3u8
-http://103.157.248.140:8000/play/a01a/index.m3u8
-
+http://103.253.18.58:8000/play/a01f
 
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
 http://103.155.18.186:8000/play/a06r/index.m3u8
@@ -934,6 +934,7 @@ https://m3uplay.com/stream.m3u8?id=zcomedynation
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="& pictures HD" tvg-logo="https://i.postimg.cc/50p2C6NZ/pic-hd.png" group-title="Hindi",& pictures HD
 http://103.155.18.186:8000/play/a06b/index.m3u8
+http://103.253.18.58:8000/play/a01i
 #EXTINF:-1 tvg-id="& pictures" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",& pictures
 http://103.155.18.186:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="& explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",& explor HD
