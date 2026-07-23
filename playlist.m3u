@@ -265,7 +265,7 @@ https://04jio.teachub.workers.dev/live.m3u8?id=953
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Web TV",Media vision Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
-#malayalamTV
+#malayalamTV 
 #EXTINF:-1 tvg-id="v" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 #EXTVLCOPT:http-referrer=https://ranapkz.site/
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373404
