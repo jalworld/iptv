@@ -198,8 +198,6 @@ h- https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="Sabha TV" tvg-logo="https://i.postimg.cc/2SjKLMnm/Sabha-TV.png" group-title="Malayalam News",Sabha TV
-http://103.251.43.36/hls/test.m3u8
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
@@ -213,7 +211,7 @@ https://cdn-3.pishow.tv/live/1629/master.m3u8
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.postimg.cc/RF04H4H3/mathrubhumi-news.png" group-title="Malayalam News",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-#EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.postimg.cc/qBhgbxN6/Mediaone-TV.jpg" group-title="Malayalam News",Media One
+#EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.postimg.cc/L6FgkVh8/Media-One.png" group-title="Malayalam News",Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.postimg.cc/FsM6h6yJ/News-18-Kerala.png" group-title="Malayalam News",News 18 Kerala 
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
@@ -230,6 +228,8 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.postimg.cc/hPHm1Pc5/Raj-News-Malayalam.png" http-referrer="https://bhoomtv.org" group-title="Malayalam News",Raj News Malayalam
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://colorsportscreen.com/freetv/stream.m3u8?id=eca30f720962
+#EXTINF:-1 tvg-id="Sabha TV" tvg-logo="https://i.postimg.cc/2SjKLMnm/Sabha-TV.png" group-title="Malayalam News",Sabha TV
+http://103.251.43.36/hls/test.m3u8
 #EXTINF:-1 tvg-id="Janam TV " tvg-logo="https://i.postimg.cc/W1FnsHbx/Janam-TV.png" group-title="Malayalam News",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 
