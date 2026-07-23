@@ -1125,7 +1125,8 @@ https://cdn-3.pishow.tv/live/1279/master.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo="" group-title="Test",Abc
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://starzplay.com/" group-title="Test",As
+
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://shekinahnews.tv/assets/sk/img/shekinah_logo.png" http-referrer="https://starzplay.com/" group-title="Test", 123456
 #EXTVLCOPT:http-referrer=https://starzplay.com/
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd?aws.sessionId=914cb13d-cca3-413e-84c7-239eceba8781
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Kids",Kochu TV
