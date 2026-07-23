@@ -225,8 +225,8 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.postimg.cc/hPHm1Pc5/Raj-News-Malayalam.png" http-referrer="https://bhoomtv.org" group-title="Malayalam News",Raj News Malayalam
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.postimg.cc/hPHm1Pc5/Raj-News-Malayalam.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam News",Raj News Malayalam
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=eca30f720962
 #EXTINF:-1 tvg-id="Sabha TV" tvg-logo="https://i.postimg.cc/2SjKLMnm/Sabha-TV.png" group-title="Malayalam News",Sabha TV
 http://103.251.43.36/hls/test.m3u8
@@ -343,8 +343,8 @@ https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.postimg.cc/mDKw1xZJ/Kappa-TV.png" group-title="Malayalam",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
-#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" http-referrer="https://bhoomtv.org" group-title="Malayalam",Raj Musix malayalam
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" http-referrer="https://colorsportscreen.com/" group-title="Malayalam",Raj Musix malayalam
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.postimg.cc/3RjRmmYC/Safari-TV.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
