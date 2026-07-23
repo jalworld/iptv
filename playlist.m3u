@@ -377,8 +377,6 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 E#XTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=895
 http://103.155.18.186:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-id="Gee TV Music" tvg-logo="https://i.postimg.cc/rp9RkNxj/Gee-TV-Music.png" group-title="Music",Gee TV Music
-https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Music",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Music",Jaya Max
@@ -400,17 +398,21 @@ https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="ACP Isai Oli" tvg-logo="https://i.postimg.cc/Gmvn9MMm/ACP-Isai-Oli.png" http-referrer="https://bhoomtv.org" group-title="Music",ACP Isai Oli
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=57923a593be3&t=1783352263
-
 #EXTINF:-1 tvg-id="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/194393/200x200_SunGeminiMusicHD_194393_e6900337-344d-45c5-932a-47795bd3b2e8.png" http-referrer="https://bhoomtv.org" group-title="Music",Gemini Music HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://telugu.keralive.workers.dev/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="Music Beats Kannada" tvg-logo="https://i.postimg.cc/qvJWMkCF/Music-Beats-Kannada.png" group-title="Music",Music Beats Kannada
 https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
+#EXTINF:-1 tvg-id="Gee TV Music" tvg-logo="https://i.postimg.cc/rp9RkNxj/Gee-TV-Music.png" group-title="Music",Gee TV Music
+https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="YRF Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Music",Shemaroo Filmi Gaane 
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="Evergreen Hits" tvg-logo="https://i.postimg.cc/wxkt50Ty/Evergreen-Hits.png" http-referrer="https://colorsportscreen.com/" group-title="Music",Evergreen Hits
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd
 #EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://bhoomtv.org" group-title="Music",MTV India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
