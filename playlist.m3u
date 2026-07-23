@@ -369,8 +369,8 @@ h-https://04jio.teachub.workers.dev/live.m3u8?id=747
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373390
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.postimg.cc/mDKw1xZJ/Kappa-TV.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
-#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" http-referrer="https://bhoomtv.org" group-title="Music",Raj Musix malayalam
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" http-referrer="https://colorsportscreen.com/" group-title="Music",Raj Musix malayalam
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Music",Sun music HD
@@ -390,16 +390,16 @@ https://rtmp.bmlive.net/bms/kcmusic/stream.m3u8
 https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="Yet Music HD" tvg-logo="https://i.postimg.cc/VNHgwwjp/YET-Music.png" group-title="Music",Yet Music HD
 https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
-#EXTINF:-1 tvg-id="Peppers TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png?width=400" http-referrer="https://bhoomtv.org" group-title="Music",Peppers TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Peppers TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png?width=400" http-referrer="https://colorsportscreen.com/" group-title="Music",Peppers TV
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=377b15976af1
 #EXTINF:-1 tvg-id="7 music" tvg-logo="https://i.postimg.cc/c15Bph19/7-music-tamil.png" group-title="Music",7 Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
-#EXTINF:-1 tvg-id="ACP Isai Oli" tvg-logo="https://i.postimg.cc/Gmvn9MMm/ACP-Isai-Oli.png" http-referrer="https://bhoomtv.org" group-title="Music",ACP Isai Oli
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="ACP Isai Oli" tvg-logo="https://i.postimg.cc/Gmvn9MMm/ACP-Isai-Oli.png" group-title="Music",ACP Isai Oli
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=57923a593be3&t=1783352263
-#EXTINF:-1 tvg-id="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/194393/200x200_SunGeminiMusicHD_194393_e6900337-344d-45c5-932a-47795bd3b2e8.png" http-referrer="https://bhoomtv.org" group-title="Music",Gemini Music HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/194393/200x200_SunGeminiMusicHD_194393_e6900337-344d-45c5-932a-47795bd3b2e8.png" http-referrer="https://colorsportscreen.com" group-title="Music",Gemini Music HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://telugu.keralive.workers.dev/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="Music Beats Kannada" tvg-logo="https://i.postimg.cc/qvJWMkCF/Music-Beats-Kannada.png" group-title="Music",Music Beats Kannada
 https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
@@ -413,8 +413,8 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="Evergreen Hits" tvg-logo="https://i.postimg.cc/wxkt50Ty/Evergreen-Hits.png" http-referrer="https://colorsportscreen.com/" group-title="Music",Evergreen Hits
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd
-#EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://bhoomtv.org" group-title="Music",MTV India
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://colorsportscreen.com" group-title="Music",MTV India
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Music",Bollywood Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
@@ -430,10 +430,10 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Only Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png?width=400" group-title="Music",Only Music HD
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 #EXTINF:-1 tvg-id="Epic Music" tvg-logo="https://i.postimg.cc/VvZHHtKy/Epic-Music.png" http-referrer="https://bhoomtv.org" group-title="Music",Epic Music
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=5d6328db934f
 #EXTINF:-1 tvg-id="Vision Beats" tvg-logo="https://i.postimg.cc/2jxwjnFz/Vision-Beats.png" http-referrer="https://bhoomtv.org" group-title="Music",Vision Beats
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Music",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160c818d-4a57-4b89-ae62-0423e18110cf/3.m3u8
@@ -443,10 +443,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
 https://04jio.teachub.workers.dev/live.m3u8?id=964
 #EXTINF:-1 tvg-id="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png?width=400" http-referrer="https://bhoomtv.org" group-title="Music",E 24
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=21da616d26aa
 #EXTINF:-1 tvg-id="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5b3d87a168699ad7bb6ac6b304f3de4d.png"  http-referrer="https://bhoomtv.org" group-title="Music",Music India
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=2bcdeee165a5
 #EXTINF:-1 tvg-id="Joo Music" tvg-logo="https://i.postimg.cc/bvLj3JSk/Joo-Music.png" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -460,21 +460,21 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
 https://cdn-3.pishow.tv/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="Vision Punjab Music HD" tvg-logo="https://i.postimg.cc/HWtJ82NG/Vision-Punjab-Music-HD.jpg" http-referrer="https://bhoomtv.org" group-title="Music",Vision Punjab Music HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
 #EXTINF:-1 tvg-id="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Music",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png?width=400" group-title="Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="Punjabi Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png?width=400" http-referrer="https://bhoomtv.org" group-title="Music",Punjabi Music HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=d76bf3d7d566
 #EXTINF:-1 tvg-id="PTC Punjabi Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png?width=400" group-title="Music",PTC Punjabi Gold
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6686/index.m3u8
 #EXTINF:-1 tvg-id="Public Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/channel/a81e4e69d4bfedb502653dffe0ad80e6.png" group-title="Music",Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-id="Classic Hits" tvg-logo="https://i.postimg.cc/cCJ8Lt0T/Classic-Hits.png" http-referrer="https://bhoomtv.org" group-title="Music",Classic Hits
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=ff0c54c1c70b
 #sports
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
@@ -801,8 +801,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?ads.xumo_ch
 http://103.155.18.186:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Cafe" tvg-logo=""https://i.postimg.cc/nhVs3H8Q/z_cafe.jpg" http-referrer="https://bhoomtv.org" group-title="English Movies",Zee Cafe
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="Zee Cafe" tvg-logo=""https://i.postimg.cc/nhVs3H8Q/z_cafe.jpg" group-title="English Movies",Zee Cafe
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://supertamil.keralive.workers.dev/p_runact/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
@@ -1197,7 +1197,7 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6653/index.m3u8
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/N0FTYN89/Asianet.png" group-title="Test",Asianet
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org" group-title="Test",Asianet Movies
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://colorsportscreen.com/" group-title="Test",Asianet Movies
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Test",Asianet Plus
