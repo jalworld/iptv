@@ -682,10 +682,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #Religious
 #EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
-http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
-http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="Religious",Saudi Quran TV
+https://aloula-redirect.vercel.app/7/playlist.m3u8
+#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Saudi Sunnah TV
+https://aloula-redirect.vercel.app/6/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
@@ -837,8 +837,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:3
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099472.m3u8
 
 #Arabic
-#EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.postimg.cc/0Qb5BkfX/al-saudiya-tv.jpg" group-title="Arabic",Al Saudiya
+#EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Arabic",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id="Al Ekhbariya" tvg-logo="https://aloula.sba.sa/en/live/thikrayat" group-title="Arabic",Al Ekhbariya
+https://aloula-redirect.vercel.app/4/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Arabic",Al Saudiya Alaan
+https://aloula-redirect.vercel.app/17/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-logo="https://i.imgur.com/8DAriPs.png" group-title="Arabic",Abu Dhabi TV
 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://i.imgur.com/iSbZqn4.png" group-title="Arabic",Al Emarat TV
@@ -1121,7 +1125,9 @@ https://cdn-3.pishow.tv/live/1279/master.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo="" group-title="Test",Abc
-
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://starzplay.com/" group-title="Test",As
+#EXTVLCOPT:http-referrer=https://starzplay.com/
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd?aws.sessionId=914cb13d-cca3-413e-84c7-239eceba8781
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Kids",Kochu TV
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373402
 #EXTINF:-1 tvg-id="Sonic Malayalam" tvg-logo="https://i.postimg.cc/HszvGdkN/sonic_malayalam.png" group-title="Kids",Sonic Malayalam
