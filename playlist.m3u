@@ -285,6 +285,8 @@ https://04jio.teachub.workers.dev/live.m3u8?id=443
 https://04jio.teachub.workers.dev/live.m3u8?id=459
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
+#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
+http://109.61.81.147:1935/cdn7/949/mpegts?token=0d6854751b17cbe03719300e14f9237d
 
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373394
@@ -492,6 +494,7 @@ http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 tvg-id="Star Sports 2 Tamil" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 2 Tamil
 http://103.155.18.186:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 3
+http://109.61.81.147:1935/cdn7/513/mpegts?token=c4764c0a0ff28fc945b08c48dd3550a5
 #EXTINF:-1 tvg-id="Star Sports Khel" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports Khel
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 1 HD
 http://103.155.18.186:8000/play/a03c/index.m3u8
@@ -553,6 +556,7 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Action" tvg-logo="https://i.postimg.cc/qRKfkxmk/Sky-Sports-Action.png" group-title="Sports",Sky Sports Action
 #EXTINF:-1 tvg-id="Sky Sports Arena" tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sports",Sky Sports Arena
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket
+http://109.61.81.147:1935/cdn7/307/mpegts?token=01a3c5ee05145953bcd204de0f721ec7
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="https://i.postimg.cc/x1gNRK30/Sky-Sports-F1.png" group-title="Sports",Sky Sports F1
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-logo="https://i.postimg.cc/65W9hFjv/Sky-Sports-Football.png" group-title="Sports",Sky Sports Football
@@ -583,6 +587,7 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="Sports",Fox Cricket
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
+http://109.61.81.147:1935/cdn7/4839/mpegts?token=c55026c696e388699ab4e930db2e7a9e
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
 #EXTINF:-1 tvg-id="Willow Cricket 2" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket 2
 #EXTINF:-1 tvg-id="cricbuzz" tvg-logo="https://i.postimg.cc/fRKhZnRC/ezgif-340bad0a76a88112.png" group-title="Sports",Cricbuzz
