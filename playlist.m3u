@@ -844,7 +844,7 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099
 #Arabic
 #EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Arabic",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-id="Al Ekhbariya" tvg-logo="https://aloula.sba.sa/en/live/thikrayat" group-title="Arabic",Al Ekhbariya
+#EXTINF:-1 tvg-id="Al Ekhbariya" tvg-logo="https://i.postimg.cc/m2xp8Wm8/Al-Ekhbariya-TV-2020.webp" group-title="Arabic",Al Ekhbariya
 https://aloula-redirect.vercel.app/4/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Arabic",Al Saudiya Alaan
 https://aloula-redirect.vercel.app/17/playlist.m3u8
