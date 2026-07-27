@@ -277,17 +277,6 @@ https://ranapkz.site/RANAPK33k/TVD/play.php?id=373396
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 
-#EXTINF:-1 tvg-id="v" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Asianet HD
-#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
-https://04jio.teachub.workers.dev/live.m3u8?id=443
-#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Asianet movies HD
-#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
-https://04jio.teachub.workers.dev/live.m3u8?id=459
-#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
-#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
-http://109.61.81.147:1935/cdn7/949/mpegts?token=0d6854751b17cbe03719300e14f9237d
-
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373394
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
@@ -296,9 +285,8 @@ https://ranapkz.site/RANAPK33k/TVD/play.php?id=373395
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373390
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Malayalam",Kochu TV
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373401
-#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Surya TV HD
-#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
-h-https://04jio.teachub.workers.dev/live.m3u8?id=900
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -318,9 +306,7 @@ https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_in
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m60orW8j27kXxj7mgPZqHw", "kid":"EVY7AKRrQ/Kg+A7PQqT7dw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="Test",Surya Comedy
 https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" http-referrer="https://04jio.teachub.workers.dev/" group-title="Malayalam",Surya Music
-#EXTVLCOPT:http-referrer=https://04jio.teachub.workers.dev/
-h-https://04jio.teachub.workers.dev/live.m3u8?id=747
+
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bND8k1y1/zee-keralam-hd.jpg" group-title="Malayalam",Zee Keralam HD
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373388
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/0NL75YyM/Mazhavil-Manorama-HD.png" group-title="Malayalam",Mazhavil Manorama HD
