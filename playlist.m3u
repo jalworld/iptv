@@ -401,9 +401,8 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="Evergreen Hits" tvg-logo="https://i.postimg.cc/wxkt50Ty/Evergreen-Hits.png" http-referrer="https://colorsportscreen.com/" group-title="Music",Evergreen Hits
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd
-#EXTINF:-1 tvg-id="MTV India" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" http-referrer="https://colorsportscreen.com" group-title="Music",MTV India
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png"group-title="Music",MTV
+http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Music",Bollywood Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Music",9xm
@@ -464,7 +463,7 @@ https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-id="Classic Hits" tvg-logo="https://i.postimg.cc/cCJ8Lt0T/Classic-Hits.png" http-referrer="https://bhoomtv.org" group-title="Music",Classic Hits
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=ff0c54c1c70b
-#sports
+#sportstv
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 HD
 http://103.155.18.186:8000/play/a00a/index.m3u8
@@ -618,9 +617,13 @@ http://103.157.248.140:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
-#EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.postimg.cc/bNbWQL59/geo_sports.jpg" group-title="Sports",Geo Sports
+http://103.253.18.58:8000/play/a04h
+#EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.pinimg.com/474x/ba/1c/c1/ba1cc1700dd601e35a7ac236441397e5.jpg" group-title="Sports",Geo Sports
+http://103.253.18.58:8000/play/a04j
+#EXTINF:-1 tvg-id="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+http://103.253.18.58:8000/play/a05w
 #EXTINF:-1 tvg-id="a sports" tvg-logo="https://i.postimg.cc/rsmkZhT6/a_sports.png" group-title="Sports",A Sports
-
+http://103.253.18.58:8000/play/a05t
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/Bbc5Wpzf/ADSPORTS1.png" group-title="Sports",Abu Dhabi Sports 1 HD
 https://vod1.jalatech.ps/abu_dhabisport1/index.m3u8?token=0db9279076983e99caf9c11a00e38298
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/WbyzNgcx/ADSPORTS2.png" group-title="Sports",Abu Dhabi Sports 2 HD
@@ -741,6 +744,7 @@ http://103.155.18.186:8000/play/a050/index.m3u8
 http://103.157.248.140:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
 http://37.186.70.39:40/play/113/index.m3u8
+http://103.155.18.186:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://103.155.18.186:8000/play/a05o/index.m3u8
 http://103.157.248.140:8000/play/a012/index.m3u8
@@ -761,7 +765,7 @@ http://103.155.18.186:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Documentary",History TV 18
 http://103.155.18.186:8000/play/a065/index.m3u8
 http://103.253.18.58:8000/play/a01f
-
+#ENGLISHMOVIES
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
 http://103.155.18.186:8000/play/a06r/index.m3u8
 http://103.157.248.140:8000/play/a01t/index.m3u8
@@ -771,11 +775,16 @@ http://103.157.248.140:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="English Movies",Movies Now HD
 http://103.155.18.186:8000/play/a057/index.m3u8
 http://103.157.248.140:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="Romedy Now" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png?width=400" group-title="English Movies",Romedy Now
-http://103.155.18.186:8000/play/a05x/index.m3u8
+http://103.253.18.58:8000/play/a03n
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-logo="https://i.postimg.cc/fTwBZjFb/Star-Channel-HD.jpg" group-title="English Movies",Star Channel HD
+http://38.19.16.151:8000/play/a0gh
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
 http://103.155.18.186:8000/play/a06p/index.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-logo="https://i.postimg.cc/BvCgPjd0/Colors-Infinity-HD.jpg" group-title="English Movies",Colors Infinity HD
+http://103.155.18.186:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="Romedy Now" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png?width=400" group-title="English Movies",Romedy Now
+http://103.155.18.186:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO
 http://38.19.16.151:8000/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-id="HBO +" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO +
@@ -824,9 +833,8 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Korean Movies HD" tvg-logo="https://i.postimg.cc/TPsR88hk/korean-movies.jpg" group-title="English Movies",Korean Movies HD
 
 #EXTINF:-1 tvg-id="Paramount Movies HD" tvg-logo="https://i.postimg.cc/bY3mqzqN/Paramount-Movie.jpg" group-title="English Movies",Paramount Movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:31:34:0E
+
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099472.m3u8
 
 #Arabic
@@ -859,11 +867,8 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.postimg.cc/dQ2pw5Sj/al_jazeera_mubasher.jpg" group-title="Arabic",Al Jazeera Mubasher
 
 #EXTINF:-1 tvg-id="Al Arabiya" tvg-logo="https://i.postimg.cc/HLb4XhM4/al_arabiya.jpg" group-title="Arabic",Al Arabiya
-
 #EXTINF:-1 tvg-id="sky news arabia" tvg-logo="https://i.postimg.cc/WzyJQGrM/sky_news_arabia.png" group-title="Arabic",Sky News Arabia
-
 #EXTINF:-1 tvg-id="BBC News Arabic" tvg-logo="https://s7.ezgif.com/tmp/ezgif-7e80b2f9143edd02.png" group-title="Arabic",BBC News Arabic
-
 #EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://i.postimg.cc/GmF1NcnT/star_movie.png" group-title="Arabic",Star Movies
 
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
@@ -960,7 +965,7 @@ http://103.157.248.140:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Colors Superhits" tvg-logo="https://i.postimg.cc/QtGHZHf7/Colors-Superhits.png" group-title="Hindi",Cineplex Superhits
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" group-title="Hindi",MTV
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
+http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/6331fe55-785e-4fcf-bfab-53584ae275ef/3.m3u8
 #EXTINF:-1 tvg-id="B4U Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" http-referrer="https://bhoomtv.org" group-title="Hindi",B4U Kadak
@@ -1129,7 +1134,7 @@ http://103.155.18.186:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="Chutti TV" tvg-logo="https://i.postimg.cc/3wgRtSKy/Sun_chutti_tv.png" group-title="Kids",Chutti TV
 
 #EXTINF:-1 tvg-id="Pogo TV" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Pogo TV
-
+http://103.155.18.186:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.postimg.cc/wTfmnfZY/Mr-Bean.png" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png?width=400" group-title="Kids",Disney Channel
@@ -1141,7 +1146,9 @@ http://103.155.18.186:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.postimg.cc/YSzh3vzS/Disney-Jr.webp" group-title="Kids",Disney Jr
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/hjZNW00W/cartoon-network.png" group-title="Kids",Cartoon Network
-
+http://103.155.18.186:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/hjZNW00W/cartoon-network.png" group-title="Kids",Cartoon Network HD+
+http://103.155.18.186:8000/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="Sky Kids" tvg-logo="https://i.postimg.cc/kMzXWNPN/Sky-Kids.png" group-title="Kids",Sky Kids
 
 #EXTINF:-1 tvg-id="Sky Animation" tvg-logo="https://i.postimg.cc/cLLSjTYL/sky-cinema-animation.png" group-title="Kids",Sky Animation
