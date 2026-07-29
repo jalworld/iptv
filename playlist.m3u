@@ -408,9 +408,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Music",9xm
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9X Jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Music",9X Jalwa
-http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="9X Tashan" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Music",9X Tashan
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9X Tashan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Tashan_Logo_GOLD0010_0010.png/revision/latest?cb=20210508151227" group-title="Music",9X Tashan
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6672/index.m3u8
+#EXTINF:-1 tvg-id="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Music",9X Jhakaas
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
