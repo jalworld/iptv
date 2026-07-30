@@ -12,6 +12,32 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
 	<link rel="manifest" href="/fav/site.webmanifest">
+	 <script>
+        document.addEventListener('keydown', function() {
+  if (event.keyCode == 123) {
+    alert("This function has been disabled to prevent you from stealing my code!");
+    return false;
+  } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
+    alert("This function has been disabled to prevent you from stealing my code!");
+    return false;
+  } else if (event.ctrlKey && event.keyCode == 85) {
+    alert("This function has been disabled to prevent you from stealing my code!");
+    return false;
+  }
+}, false);
+
+if (document.addEventListener) {
+  document.addEventListener('contextmenu', function(e) {
+    alert("This function has been disabled to prevent you from stealing my code!");
+    e.preventDefault();
+  }, false);
+} else {
+  document.attachEvent('oncontextmenu', function() {
+    alert("This function has been disabled to prevent you from stealing my code!");
+    window.event.returnValue = false;
+  });
+}
+    </script>
 <style>
 
 :root{
@@ -126,7 +152,7 @@ header{
     height:55px;
     border-radius:12px;
     object-fit:contain;
-    background:#a8a232;
+    background:#3283a8;
     padding:5px;
 }
 
