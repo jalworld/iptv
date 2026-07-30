@@ -12,32 +12,7 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
 	<link rel="manifest" href="/fav/site.webmanifest">
-	 <script>
-        document.addEventListener('keydown', function() {
-  if (event.keyCode == 123) {
-    alert("This function has been disabled to prevent you from stealing my code!");
-    return false;
-  } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
-    alert("This function has been disabled to prevent you from stealing my code!");
-    return false;
-  } else if (event.ctrlKey && event.keyCode == 85) {
-    alert("This function has been disabled to prevent you from stealing my code!");
-    return false;
-  }
-}, false);
-
-if (document.addEventListener) {
-  document.addEventListener('contextmenu', function(e) {
-    alert("This function has been disabled to prevent you from stealing my code!");
-    e.preventDefault();
-  }, false);
-} else {
-  document.attachEvent('oncontextmenu', function() {
-    alert("This function has been disabled to prevent you from stealing my code!");
-    window.event.returnValue = false;
-  });
-}
-    </script>
+	 
 <style>
 
 :root{
@@ -621,6 +596,52 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
+	<script>
+// Disable right-click
+document.addEventListener("contextmenu", function (e) {
+    e.preventDefault();
+    alert("Right-click has been disabled.");
+});
+
+// Disable keyboard shortcuts
+document.addEventListener("keydown", function (e) {
+    // Ctrl + U
+    if (e.ctrlKey && e.key.toLowerCase() === "u") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + I (Developer Tools)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "i") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + J (Console)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "j") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + C (Inspect Element)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "c") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + S (Save Page)
+    if (e.ctrlKey && e.key.toLowerCase() === "s") {
+        e.preventDefault();
+        alert("Saving this page has been disabled.");
+    }
+
+    // F12 (Developer Tools)
+    if (e.key === "F12") {
+        e.preventDefault();
+        alert("Developer tools have been disabled.");
+    }
+});
+</script>
 </body>
 </html>
 
