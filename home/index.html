@@ -1,0 +1,646 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>JALworLD MEDIA Streaming Technologies | IPTV</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+	<link rel="manifest" href="/fav/site.webmanifest">
+	 
+<style>
+
+:root{
+    --blue:#2563eb;
+    --violet:#7c3aed;
+    --orange:#f97316;
+    --dark:#08111f;
+    --dark2:#101827;
+    --text:#cbd5e1;
+    --white:#ffffff;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:var(--dark);
+    color:white;
+    overflow-x:hidden;
+}
+
+/* Background */
+
+.bg{
+    position:fixed;
+    inset:0;
+    z-index:-2;
+    background:
+    radial-gradient(circle at 20% 20%, rgba(37,99,235,.25), transparent 40%),
+    radial-gradient(circle at 80% 20%, rgba(124,58,237,.25), transparent 40%),
+    radial-gradient(circle at 50% 90%, rgba(249,115,22,.15), transparent 40%);
+}
+
+.orb{
+    position:fixed;
+    border-radius:50%;
+    filter:blur(80px);
+    opacity:.35;
+    z-index:-1;
+}
+
+.orb1{
+    width:250px;
+    height:250px;
+    background:var(--blue);
+    left:10%;
+    top:20%;
+    animation:float 8s ease-in-out infinite;
+}
+
+.orb2{
+    width:280px;
+    height:280px;
+    background:var(--violet);
+    right:10%;
+    top:15%;
+    animation:float 10s ease-in-out infinite;
+}
+
+.orb3{
+    width:220px;
+    height:220px;
+    background:var(--orange);
+    bottom:10%;
+    left:40%;
+    animation:float 12s ease-in-out infinite;
+}
+
+@keyframes float{
+    0%,100%{transform:translateY(0px);}
+    50%{transform:translateY(-35px);}
+}
+
+/* Header */
+
+header{
+    position:fixed;
+    width:100%;
+    top:0;
+    z-index:1000;
+    backdrop-filter:blur(15px);
+    background:rgba(8,17,31,.65);
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.nav{
+    width:90%;
+    max-width:1400px;
+    margin:auto;
+    padding:18px 0;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:14px;
+}
+
+.logo img{
+    width:55px;
+    height:55px;
+    border-radius:12px;
+    object-fit:contain;
+    background:#46278f;
+    padding:5px;
+}
+
+.logo h2{
+    font-size:22px;
+}
+
+.logo span{
+    color:#94a3b8;
+    font-size:12px;
+}
+
+.login-btn{
+    text-decoration:none;
+    color:white;
+    padding:14px 30px;
+    border-radius:50px;
+    font-weight:600;
+    background:linear-gradient(
+        135deg,
+        var(--blue),
+        var(--violet),
+        var(--orange)
+    );
+    box-shadow:0 10px 35px rgba(124,58,237,.4);
+    transition:.35s;
+}
+
+.login-btn:hover{
+    transform:translateY(-3px);
+}
+
+/* Hero */
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:120px 20px 60px;
+}
+
+.hero-content{
+    max-width:1100px;
+}
+
+.badge{
+    display:inline-block;
+    padding:10px 20px;
+    border-radius:40px;
+    background:rgba(255,255,255,.08);
+    border:1px solid rgba(255,255,255,.08);
+    margin-bottom:25px;
+}
+
+.hero h1{
+    font-size:70px;
+    line-height:1.1;
+    margin-bottom:25px;
+}
+
+.gradient{
+    background:linear-gradient(
+        90deg,
+        #60a5fa,
+        #a78bfa,
+        #fb923c
+    );
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.hero p{
+    color:var(--text);
+    font-size:20px;
+    max-width:900px;
+    margin:auto;
+}
+
+/* Section */
+
+section{
+    padding:100px 8%;
+}
+
+.title{
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.title h2{
+    font-size:42px;
+}
+
+.title p{
+    color:var(--text);
+}
+
+/* Stats */
+
+.stats{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:25px;
+}
+
+.stat{
+    background:rgba(255,255,255,.05);
+    backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:20px;
+    padding:35px;
+    text-align:center;
+}
+
+.stat h3{
+    font-size:42px;
+    color:#60a5fa;
+}
+
+.stat p{
+    color:var(--text);
+}
+
+/* Cards */
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:25px;
+}
+
+.card{
+    background:rgba(255,255,255,.05);
+    border:1px solid rgba(255,255,255,.08);
+    backdrop-filter:blur(12px);
+    border-radius:24px;
+    padding:35px;
+    transition:.35s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    border-color:rgba(124,58,237,.5);
+}
+
+.card h3{
+    color:#60a5fa;
+    margin-bottom:15px;
+}
+
+.card p{
+    color:var(--text);
+}
+
+/* Technology */
+
+.tech{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+}
+
+.tech span{
+    padding:14px 24px;
+    border-radius:50px;
+    background:rgba(255,255,255,.05);
+    border:1px solid rgba(255,255,255,.08);
+}
+
+/* Contact */
+
+.contact{
+    max-width:900px;
+    margin:auto;
+    background:rgba(255,255,255,.05);
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:25px;
+    backdrop-filter:blur(10px);
+    padding:50px;
+    text-align:center;
+}
+
+.contact p{
+    color:var(--text);
+    margin:10px 0;
+}
+
+/* Footer */
+
+footer{
+    text-align:center;
+    padding:35px;
+    color:#94a3b8;
+    border-top:1px solid rgba(255,255,255,.08);
+}
+
+/* Animations */
+
+.reveal{
+    opacity:0;
+    transform:translateY(40px);
+    transition:all .8s ease;
+}
+
+.reveal.active{
+    opacity:1;
+    transform:translateY(0);
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:42px;
+}
+
+.logo h2{
+    font-size:18px;
+}
+
+.login-btn{
+    padding:12px 20px;
+}
+
+}
+</style>
+</head>
+
+<body>
+
+<div class="bg"></div>
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+<div class="orb orb3"></div>
+
+<header>
+<div class="nav">
+
+<div class="logo">
+    <img src="/fav/android-chrome-512x512.png" alt="JALworLD IPTV">
+    <div>
+        <h2>JALworLD IPTV</h2>
+        <span>Enterprise Video Delivery Platform</span>
+    </div>
+</div>
+
+<a href="https://user-panel.com/login"
+target="_blank"
+class="login-btn">
+Login
+</a>
+
+</div>
+</header>
+
+<section class="hero">
+
+<div class="hero-content reveal">
+
+<div class="badge">
+RTMP • SRT • HLS • MPEG-DASH • OTT • CDN
+</div>
+
+<h1>
+Enterprise
+<span class="gradient">
+IPTV & Streaming
+</span>
+Infrastructure
+</h1>
+
+<p>
+Deliver broadcast-grade live and on-demand video experiences using
+carrier-class IPTV, OTT, RTMP contribution, SRT transport,
+adaptive bitrate streaming and global content delivery solutions.
+
+
+
+</div>
+
+</section>
+
+<section>
+
+<div class="title reveal">
+<h2>Platform Highlights</h2>
+<p>Designed for broadcasters, telecom operators and content providers</p>
+</div>
+
+<div class="stats">
+
+<div class="stat reveal">
+<h3>99.99%</h3>
+<p>Platform Uptime</p>
+</div>
+
+<div class="stat reveal">
+<h3>500+</h3>
+<p>Streaming Channels</p>
+</div>
+
+<div class="stat reveal">
+<h3>50+</h3>
+<p>Enterprise Clients</p>
+</div>
+
+<div class="stat reveal">
+<h3>24/7</h3>
+<p>Technical Support</p>
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="title reveal">
+<h2>Solutions</h2>
+<p>Professional streaming services built for scale</p>
+</div>
+
+<div class="grid">
+
+<div class="card reveal">
+<h3>IPTV Solutions</h3>
+<p>
+Complete IPTV platform deployment including middleware,
+subscriber management, EPG integration and content delivery.
+</p>
+</div>
+
+<div class="card reveal">
+<h3>RTMP & SRT Transport</h3>
+<p>
+Reliable contribution feeds with secure low-latency
+transport workflows for professional broadcasting.
+</p>
+</div>
+
+<div class="card reveal">
+<h3>OTT Applications</h3>
+<p>
+Custom OTT solutions for Android TV, Fire TV,
+Smart TV, iOS, Android and Web platforms.
+</p>
+</div>
+
+<div class="card reveal">
+<h3>Adaptive Streaming</h3>
+<p>
+MPEG-DASH and HLS streaming optimized
+for every device and network condition.
+</p>
+</div>
+
+<div class="card reveal">
+<h3>CDN Distribution</h3>
+<p>
+Global content delivery architecture
+designed for performance and reliability.
+</p>
+</div>
+
+<div class="card reveal">
+<h3>Broadcast Infrastructure</h3>
+<p>
+Enterprise-grade streaming systems,
+monitoring and media workflow automation.
+</p>
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="title reveal">
+<h2>Technology Stack</h2>
+<p>Built using modern streaming standards</p>
+</div>
+
+<div class="tech reveal">
+<span>RTMP</span>
+<span>SRT</span>
+<span>HLS</span>
+<span>MPEG-DASH</span>
+<span>WebRTC</span>
+<span>FFmpeg</span>
+<span>CDN</span>
+<span>Docker</span>
+<span>Kubernetes</span>
+<span>Cloud Infrastructure</span>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="title reveal">
+<h2>Contact Us</h2>
+<!--- <p>JALworLD IPTV Streaming Technologies</p> ---!>
+</div>
+
+<div class="contact reveal">
+<!--- 
+<p><strong>Streaming Technologies</strong></p>
+
+<p>
+addd<br>
+addd2 <br>
+Kerala, India
+</p>
+---!>
+<p>
+Enterprise IPTV • OTT Platforms • RTMP • SRT • DASH • CDN
+</p>
+<p>
+<span>
+  <img src="/fav/whatsapp.png" width="20" height="20" style="vertical-align: middle;">
+ whatsapp: +91 
+</span>    
+<span>
+  <img src="/fav/email.png" width="20" height="20" style="vertical-align: middle;">
+  •email: jalworldmedia[at]gmail.com
+</span>
+
+</p>
+
+</div>
+
+</section>
+
+<footer>
+© Copyright <script>document.write(new Date().getFullYear());</script> JALworLD MEDIA Streaming Technologies, All rights reserved.
+</footer>
+
+<script>
+const reveals=document.querySelectorAll('.reveal');
+
+function reveal(){
+    reveals.forEach(el=>{
+        const top=el.getBoundingClientRect().top;
+        if(top<window.innerHeight-100){
+            el.classList.add('active');
+        }
+    });
+}
+
+window.addEventListener('scroll',reveal);
+reveal();
+</script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4949082,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+	<script>
+// Disable right-click
+document.addEventListener("contextmenu", function (e) {
+    e.preventDefault();
+    alert("Right-click has been disabled.");
+});
+
+// Disable keyboard shortcuts
+document.addEventListener("keydown", function (e) {
+    // Ctrl + U
+    if (e.ctrlKey && e.key.toLowerCase() === "u") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + I (Developer Tools)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "i") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + J (Console)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "j") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + Shift + C (Inspect Element)
+    if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "c") {
+        e.preventDefault();
+        alert("This function has been disabled.");
+    }
+
+    // Ctrl + S (Save Page)
+    if (e.ctrlKey && e.key.toLowerCase() === "s") {
+        e.preventDefault();
+        alert("Saving this page has been disabled.");
+    }
+
+    // F12 (Developer Tools)
+    if (e.key === "F12") {
+        e.preventDefault();
+        alert("Developer tools have been disabled.");
+    }
+});
+</script>
+</body>
+</html>
