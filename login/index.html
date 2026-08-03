@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -533,7 +533,7 @@ body{
         <div class="logo">
 
             <img
-                src="/fav/android-chrome-512x512.png"
+                src="/image/logo.png"
                 alt="JALworLD IPTV"
             >
 
@@ -665,27 +665,13 @@ body{
 
 </div>
 
-
 <script>
-
-/* =========================
-   DEMO LOGIN DETAILS
-========================= */
 
 const DEMO_USERNAME = "admin";
 const DEMO_PASSWORD = "123456";
 
-
-/* =========================
-   IPTV REDIRECT
-========================= */
-
 const IPTV_PAGE = "https://malayalamlive.vercel.app/home";
 
-
-/* =========================
-   ELEMENTS
-========================= */
 
 const loginForm =
     document.getElementById("loginForm");
@@ -706,9 +692,6 @@ const forgotPassword =
     document.getElementById("forgotPassword");
 
 
-/* =========================
-   PASSWORD SHOW / HIDE
-========================= */
 
 togglePassword.addEventListener(
     "click",
@@ -732,10 +715,6 @@ togglePassword.addEventListener(
 );
 
 
-/* =========================
-   LOGIN
-========================= */
-
 loginForm.addEventListener(
     "submit",
     function(e){
@@ -756,7 +735,6 @@ loginForm.addEventListener(
         message.textContent = "";
 
 
-        /* Check credentials */
 
         if(
             user === DEMO_USERNAME &&
@@ -769,20 +747,10 @@ loginForm.addEventListener(
             message.className =
                 "message success";
 
-
-            /*
-             * Save login status
-             */
-
             sessionStorage.setItem(
                 "jalworld_logged_in",
                 "true"
             );
-
-
-            /*
-             * Redirect after 800ms
-             */
 
             setTimeout(function(){
 
@@ -806,11 +774,6 @@ loginForm.addEventListener(
     }
 );
 
-
-/* =========================
-   FORGOT PASSWORD
-========================= */
-
 forgotPassword.addEventListener(
     "click",
     function(e){
@@ -825,12 +788,6 @@ forgotPassword.addEventListener(
 
     }
 );
-
-
-/* =========================
-   YEAR
-========================= */
-
 document.getElementById("year").textContent =
     new Date().getFullYear();
 
@@ -838,4 +795,4 @@ document.getElementById("year").textContent =
 
 </body>
 </html>
-```
+
