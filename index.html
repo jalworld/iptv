@@ -587,13 +587,13 @@ window.addEventListener('scroll',reveal);
 reveal();
 </script>
 		<script>
-(function () {
-    const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+    const isMobile = /Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
 
-    if (isMobile && window.location.hostname !== "https://jalworldiptv.vercel.app/home") {
-        // window.location.href = "https://jalworldiptv.vercel.app/home";
+    if (isMobile) {
+        window.location.href = "https://jalworldiptv.vercel.app/home";
+    } else {
+        window.location.href = "https://jalworldiptv.vercel.app/home";
     }
-})();
 </script>
   <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
@@ -1031,8 +1031,8 @@ document.addEventListener("keydown", function (e) {
 
 
 <!---
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz",
-#EXTM3U x-tvg-url=""https://fhux.short.gy/epg.xml.gz",
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz",
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz",
 "https://iptv-org.github.io/epg/guides/en/dishtv.in.xml","https://iptv-org.github.io/epg/guides/en/elcinema.com.xml",
 "https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml","https://iptv-org.github.io/epg/guides/en/plex.tv.xml",
 "https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml","https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml",
