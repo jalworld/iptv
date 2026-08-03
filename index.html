@@ -535,11 +535,11 @@ monitoring and media workflow automation.
 
 <div class="title reveal">
 <h2>Contact Us</h2>
-<!--- <p>JALworLD IPTV Streaming Technologies</p> ---!>
+ <!--  START  <p>JALworLD IPTV Streaming Technologies</p>   end -->
 </div>
 
 <div class="contact reveal">
-<!--- 
+ <!--  START  
 <p><strong>Streaming Technologies</strong></p>
 
 <p>
@@ -547,7 +547,7 @@ addd<br>
 addd2 <br>
 Kerala, India
 </p>
----!>
+  end -->
 <p>
 Enterprise IPTV • OTT Platforms • RTMP • SRT • DASH • CDN
 </p>
@@ -585,6 +585,15 @@ function reveal(){
 
 window.addEventListener('scroll',reveal);
 reveal();
+</script>
+		<script>
+(function () {
+    const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+
+    if (isMobile && window.location.hostname !== "https://jalworldiptv.vercel.app/home") {
+        // window.location.href = "https://jalworldiptv.vercel.app/home";
+    }
+})();
 </script>
   <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
@@ -641,12 +650,12 @@ document.addEventListener("keydown", function (e) {
         alert("Developer tools have been disabled.");
     }
 });
-</script>
+</script>  <!-- 
 <script>
   window.onload = function () {
     window.location.href = "https://jalworldiptv.vercel.app/home";
   };
-</script>
+</script> -->
 </body>
 </html>
 
