@@ -606,11 +606,6 @@ document.addEventListener("contextmenu", function (e) {
 
 // Disable keyboard shortcuts
 document.addEventListener("keydown", function (e) {
-    // Ctrl + U
-    if (e.ctrlKey && e.key.toLowerCase() === "u") {
-        e.preventDefault();
-        alert("error !⛔");
-    }
 
     // Ctrl + Shift + I (Developer Tools)
     if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === "i") {
